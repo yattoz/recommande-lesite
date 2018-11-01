@@ -17,33 +17,32 @@
     
 
     <atom:link rel="alternate" href="http://recommande.duckdns.org/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-<atom:link rel="alternate" href="http://recommande.duckdns.org/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-    <description>My super duper cool podcast.
+    <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.
 </description>
-    <lastBuildDate>Wed, 31 Oct 2018 17:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 22:54:19 +0000</lastBuildDate>
     <language>fr</language>
     <generator>Jekyll-Octopod 0.9.9</generator>
 
-    <itunes:summary>My super duper cool podcast.
+    <itunes:summary>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.
 </itunes:summary>
-    <itunes:author>Uncle Octopod</itunes:author>
+    <itunes:author>Yattoz</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://recommande.duckdns.org/img/logo-itunes.jpg" />
     <itunes:owner>
-      <itunes:name>Uncle Octopod</itunes:name>
-      <itunes:email>octopod@example.com</itunes:email>
+      <itunes:name>Yattoz</itunes:name>
+      <itunes:email>recommande@hotmail.com</itunes:email>
     </itunes:owner>
-    <managingEditor>octopod@example.com (Uncle Octopod)</managingEditor>
-    <copyright>CC BY 4.0</copyright>
-    <itunes:subtitle>Static Site Podcast Publishing for Geeks</itunes:subtitle>
-    <itunes:keywords>octopod, podcast, magic</itunes:keywords>
+    <managingEditor>recommande@hotmail.com (Yattoz)</managingEditor>
+    <copyright>CC BY NC SA 4.0</copyright>
+    <itunes:subtitle>Le podcast musical par vidéos recommandées.</itunes:subtitle>
+    <itunes:keywords>octopod, podcast, music, musique, youtube, recommandé</itunes:keywords>
     <image>
       <title>Recommandé</title>
       <url>http://recommande.duckdns.org/img/logo-itunes.jpg</url>
       <link>http://recommande.duckdns.org</link>
     </image>
     
-    <itunes:category text="Technology" />
+    <itunes:category text="Music" />
     
     
     
@@ -79,7 +78,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://recommande.github.io/episode0.ogg" length="58927" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://recommande.duckdns.org/episodes/episode0.ogg" length="58927" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>

@@ -4,11 +4,11 @@
   <title>Recommandé</title>
   <link href="http://recommande.duckdns.org/general_feed.xml" rel="self"/>
   <link href="http://recommande.duckdns.org"/>
-  <updated>2018-10-31T17:03:11+00:00</updated>
+  <updated>2018-11-01T22:54:19+00:00</updated>
   <id>http://recommande.duckdns.org/</id>
   <author>
-    <name>Uncle Octopod</name>
-    <email>octopod@example.com</email>
+    <name>Yattoz</name>
+    <email>recommande@hotmail.com</email>
   </author>
 
   
@@ -42,7 +42,7 @@
       <updated>2016-03-22T00:00:00+00:00</updated>
       <id>http://recommande.duckdns.org/2016/03/22/episode0</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://recommande.github.io/episode0.mp3&quot;,&quot;ogg&quot;:&quot;https://recommande.github.io/episode0.ogg&quot;,&quot;m4a&quot;:&quot;https://recommande.github.io/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;http://recommande.duckdns.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;http://recommande.duckdns.org/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://recommande.duckdns.org/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;http://recommande.duckdns.org/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;http://recommande.duckdns.org/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;http://recommande.duckdns.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;http://recommande.duckdns.org/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
 &lt;/script&gt;
 
 &lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;

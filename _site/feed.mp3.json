@@ -2,14 +2,14 @@
  "title": "Recommandé",
  "home_page_url": "http://recommande.duckdns.org/",
  "feed_url": "http://recommande.duckdns.org/feed.json",
- "description": "My super duper cool podcast.",
- "user_comment": "My super duper cool podcast.",
+ "description": "En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.",
+ "user_comment": "En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.",
  "icon": "http://recommande.duckdns.org/apple-touch-icon-precomposed.png",
  "favicon": "http://recommande.duckdns.org/favicon.ico",
  "expired": false,
  "author": {
-   "name": "Uncle Octopod",
-   "url": "http://your.fancy.hosting/"
+   "name": "Yattoz",
+   "url": "http://recommande.duckdns.org"
  },
  "items": [
    {"id": "f5ab2304",
@@ -28,10 +28,10 @@
     "title": "Episode 0",
     "summary": "",
     "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
-    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"https://recommande.github.io/episode0.mp3\",\"ogg\":\"https://recommande.github.io/episode0.ogg\",\"m4a\":\"https://recommande.github.io/episode0.m4a\"},\"coverUrl\":\"http://recommande.duckdns.org/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"http://recommande.duckdns.org/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"http://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
+    "content_html": "<script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"http://recommande.duckdns.org/episodes/episode0.mp3\",\"ogg\":\"http://recommande.duckdns.org/episodes/episode0.ogg\",\"m4a\":\"http://recommande.duckdns.org/episodes/episode0.m4a\"},\"coverUrl\":\"http://recommande.duckdns.org/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"http://recommande.duckdns.org/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"http://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
     "url": "http://recommande.duckdns.org/2016/03/22/episode0.html",
     "attachments": [
-      {"url": "https://recommande.github.io/episode0.mp3",
+      {"url": "http://recommande.duckdns.org/episodes/episode0.mp3",
        "mime_type": "audio/mpeg",
        "size_in_bytes": "45750"
       }

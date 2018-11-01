@@ -2,20 +2,20 @@ title: Recommandé
 url: http://recommande.duckdns.org
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-download_url: "https://recommande.github.io"
-subtitle: Static Site Podcast Publishing for Geeks
-description: My super duper cool podcast.
-author: Uncle Octopod
+#download_url: "https://recommande.duckdns.org"
+subtitle: Le podcast musical par vidéos recommandées. 
+description: En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.
+author: Yattoz
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
-author_url: "http://your.fancy.hosting/"
+author_url: "http://recommande.duckdns.org"
 
-email: octopod@example.com
-keywords: [octopod, podcast, magic]
-itunes_categories: [Technology]
+email: recommande@hotmail.com
+keywords: [octopod, podcast, music, musique, youtube, recommandé]
+itunes_categories: [Music]
 episodes_per_feed_page: 100
 
-player_theme: default-dark # default | "default-dark" | legacy | minimal | republica
+player_theme: "minimal" # default | "default-dark" | legacy | minimal | republica
 
 ### Date can be localized via date_de.rb plugin, you don't need to change this
 date_format: ordinal
@@ -33,9 +33,9 @@ language: fr
 explicit: "no" # "yes" | "no" | clean
 
 ### License Config, you really should configure this
-license: CC BY 4.0
-license_url: https://creativecommons.org/licenses/by/4.0/
-license_image_url: https://i.creativecommons.org/l/by/4.0/88x31.png
+license: CC BY NC SA 4.0
+license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+license_image_url: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 
 ### Feed links, optional
 itunes_url: https://itunes.apple.com/at/podcast/myname/id232323
@@ -57,11 +57,12 @@ flattr_language: fr_FR # available languages see https://api.flattr.com/rest/v2/
 flattr_category: audio # available categories see https://api.flattr.com/rest/v2/categories.txt
 
 ### Disqus comments
-disqus_shortname: # Disqus will not be used unless this is set
+disqus_shortname: yattoz-recommande # Disqus will not be used unless this is set
 disqus_developer: 0 # 1 | 0
+comments: true
 
 ### Isso comments
-use_isso: "no" # "no" | "yes"
+use_isso: "yes" # "no" | "yes"
 
 theme: jekyll-bootflat
 

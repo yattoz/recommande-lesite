@@ -1,7 +1,7 @@
 ---
 title: A propos
 layout: default
-navigation: 1
+navigation: 2
 ---
 
 # Qui suis-je et qu'est-ce que je fais ?
@@ -10,7 +10,7 @@ Je suis Yattoz, et je me suis lancé dans ce podcast, Recommandé ! Il s'agit d'
 
 # Liens
 
-Retrouvez le Calvinball Consortium auquel je participe occasionnellement, au bout de ce lien : ![https://calvinballradio.wordpress.com/](https://calvinballradio.wordpress.com/)
+Retrouvez le Calvinball Consortium auquel je participe occasionnellement, au bout de ce lien : [https://calvinballradio.wordpress.com/](https://calvinballradio.wordpress.com/)
 
 # License
 

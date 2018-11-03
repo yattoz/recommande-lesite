@@ -19,7 +19,7 @@
     <atom:link rel="alternate" href="http://recommande.duckdns.org/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.
 </description>
-    <lastBuildDate>Thu, 01 Nov 2018 22:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 18:45:30 +0000</lastBuildDate>
     <language>fr</language>
     <generator>Jekyll-Octopod 0.9.9</generator>
 
@@ -47,55 +47,61 @@
     
     
       
-    
-      
         
         
           <item>
-            <title>Episode 0 - Getting Started Is Never Easy</title>
-            <link>http://recommande.duckdns.org/2016/03/22/episode0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://recommande.duckdns.org/players/episode0"/>
-            <comments>http://recommande.duckdns.org/2016/03/22/episode0.html#disqus_thread</comments>
-            <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+            <title>Recommandé n°0A - Anisong Catharsis</title>
+            <link>http://recommande.duckdns.org/2018/11/02/episode0A.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://recommande.duckdns.org/players/episode0A"/>
+            <comments>http://recommande.duckdns.org/2018/11/02/episode0A.html#disqus_thread</comments>
+            <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://recommande.duckdns.org/2016/03/22/episode0.html</guid>
-            <description><![CDATA[
+            <guid isPermaLink="false">http://recommande.duckdns.org/2018/11/02/episode0A.html</guid>
+            <description><![CDATA[{% podigee_player page %}
 
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
 
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
+C'est le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d'embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d'entrainement pour l'algorithme, on saute à pieds joints dans tout ce qu'on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier épisode pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j'arrive à dompter l'algorithme des vidéos recommandées... et j'espère que j'y arriverai également avec vos propositions que j'attends avec impatience. 
+
+## Pour me contacter
+
+Vous pouvez me proposer vos musiques par les moyens suivants:
+
+  - Le champ de commentaires ci-dessous,
+  - @yattoz sur Twitter, suivez le bouton dans la bannière à droite,
+  - Par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com)
+  - Par message sur Discord, retrouvez le lien sur [la page officielle du Calvinball Consortium](https://calvinballradio.wordpress.com/)
+
+## Sources
+
+  * [La playlist Youtube de l'émission](https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
 
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
+C'est le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d'embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d'entrainement pour l'algorithme, on saute à pieds joints dans tout ce qu'on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier épisode pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j'arrive à dompter l'algorithme des vidéos recommandées... et j'espère que j'y arriverai également avec vos propositions que j'attends avec impatience. 
+
+## Pour me contacter
+
+Vous pouvez me proposer vos musiques par les moyens suivants:
+
+  - Le champ de commentaires ci-dessous,
+  - @yattoz sur Twitter, suivez le bouton dans la bannière à droite,
+  - Par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com)
+  - Par message sur Discord, retrouvez le lien sur [la page officielle du Calvinball Consortium](https://calvinballradio.wordpress.com/)
+
+## Sources
+
+  * [La playlist Youtube de l'émission](https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql)
 ]]></content:encoded>
             
-            <enclosure url="http://recommande.duckdns.org/episodes/episode0.ogg" length="58927" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://recommande.duckdns.org/episodes/episode0A.ogg" length="53899058" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:subtitle>Anisong Catharsis</itunes:subtitle>
             <itunes:summary></itunes:summary>
-            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:author>Yattoz</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:03:13</itunes:duration>
+            <itunes:duration>1:00:59</itunes:duration>
             
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:01.000" title="... Shoubidoubidoo ..." />
-              
-              <psc:chapter start="00:00:02.000" title="Outro." />
-              
-            </psc:chapters>
             
             
             

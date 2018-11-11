@@ -1,17 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://recommande.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://recommande.duckdns.org/" rel="alternate" type="text/html" /><updated>2018-11-03T18:45:30+00:00</updated><id>http://recommande.duckdns.org/feed.xml</id><title type="html">Recommandé</title><subtitle>En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.</subtitle><author><name>Yattoz</name></author><entry><title type="html">Recommandé n°0A</title><link href="http://recommande.duckdns.org/2018/11/02/episode0A.html" rel="alternate" type="text/html" title="Recommandé n°0A" /><published>2018-11-02T00:00:00+00:00</published><updated>2018-11-02T00:00:00+00:00</updated><id>http://recommande.duckdns.org/2018/11/02/episode0A</id><content type="html" xml:base="http://recommande.duckdns.org/2018/11/02/episode0A.html">{% podigee_player page %}
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://recommande.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recommande.duckdns.org/" rel="alternate" type="text/html" /><updated>2018-11-11T12:07:49+00:00</updated><id>https://recommande.duckdns.org/feed.xml</id><title type="html">Recommandé</title><subtitle>En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.</subtitle><author><name>Yattoz</name></author><entry><title type="html">Recommandé n°0A</title><link href="https://recommande.duckdns.org/2018/11/10/episode0A.html" rel="alternate" type="text/html" title="Recommandé n°0A" /><published>2018-11-10T00:00:00+00:00</published><updated>2018-11-10T00:00:00+00:00</updated><id>https://recommande.duckdns.org/2018/11/10/episode0A</id><content type="html" xml:base="https://recommande.duckdns.org/2018/11/10/episode0A.html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Recommandé n°0A&quot;,&quot;subtitle&quot;:&quot;Anisong Catharsis vol.1&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/11/10/episode0A.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
 
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
 
-C'est le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d'embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d'entrainement pour l'algorithme, on saute à pieds joints dans tout ce qu'on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier épisode pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j'arrive à dompter l'algorithme des vidéos recommandées... et j'espère que j'y arriverai également avec vos propositions que j'attends avec impatience. 
+&lt;h3 id=&quot;episode-0a-anisong-catharsis-vol1&quot;&gt;Episode 0A: Anisong Catharsis vol.1&lt;/h3&gt;
 
-## Pour me contacter
+&lt;p&gt;Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s’est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.&lt;/p&gt;
 
-Vous pouvez me proposer vos musiques par les moyens suivants:
+&lt;h4 id=&quot;pour-me-contacter-ou-menvoyer-des-musiques-&quot;&gt;Pour me contacter ou m’envoyer des musiques :&lt;/h4&gt;
 
-  - Le champ de commentaires ci-dessous,
-  - @yattoz sur Twitter, suivez le bouton dans la bannière à droite,
-  - Par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com)
-  - Par message sur Discord, retrouvez le lien sur [la page officielle du Calvinball Consortium](https://calvinballradio.wordpress.com/)
+&lt;ul&gt;
+  &lt;li&gt;Les commentaires de l’épisode &lt;a href=&quot;https://recommande.duckdns.org&quot;&gt;sur le site&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https:/twitter.com/yattoz&quot;&gt;@yattoz sur Twitter&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;Par e-mail à &lt;a href=&quot;mailto:recommande@hotmail.com&quot;&gt;recommande@hotmail.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Par message sur Discord, retrouvez le lien sur &lt;a href=&quot;https://calvinballradio.wordpress.com/&quot;&gt;la page officielle du Calvinball Consortium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-## Sources
+&lt;h4 id=&quot;musiques&quot;&gt;Musiques&lt;/h4&gt;
 
-  * [La playlist Youtube de l'émission](https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql)</content><author><name>Yattoz</name></author><summary type="html"></summary></entry></feed>
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql&quot;&gt;La playlist Youtube de l’épisode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Yattoz</name></author><summary type="html"></summary></entry></feed>

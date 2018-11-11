@@ -2,7 +2,7 @@ title: Recommandé
 url: https://recommande.duckdns.org
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-download_url: "https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande_episodes"
+download_url: "https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes"
 subtitle: Le podcast musical par vidéos recommandées. 
 description: En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 author: Yattoz

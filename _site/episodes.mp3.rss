@@ -9,25 +9,25 @@
 
   <channel>
     <title>Recommandé</title>
-    <link>http://recommande.duckdns.org</link>
-    <atom:link href="http://recommande.duckdns.org/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="http://recommande.duckdns.org/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="http://recommande.duckdns.org/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <link>https://recommande.duckdns.org</link>
+    <atom:link href="https://recommande.duckdns.org/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://recommande.duckdns.org/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://recommande.duckdns.org/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
-    <atom:link rel="alternate" href="http://recommande.duckdns.org/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.
+    
+    <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 </description>
-    <lastBuildDate>Sat, 03 Nov 2018 18:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Nov 2018 12:07:49 +0000</lastBuildDate>
     <language>fr</language>
     <generator>Jekyll-Octopod 0.9.9</generator>
 
-    <itunes:summary>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.
+    <itunes:summary>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 </itunes:summary>
     <itunes:author>Yattoz</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://recommande.duckdns.org/img/logo-itunes.jpg" />
+    <itunes:image href="https://recommande.duckdns.org/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Yattoz</itunes:name>
       <itunes:email>recommande@hotmail.com</itunes:email>
@@ -38,8 +38,8 @@
     <itunes:keywords>octopod, podcast, music, musique, youtube, recommandé</itunes:keywords>
     <image>
       <title>Recommandé</title>
-      <url>http://recommande.duckdns.org/img/logo-itunes.jpg</url>
-      <link>http://recommande.duckdns.org</link>
+      <url>https://recommande.duckdns.org/img/logo-itunes.jpg</url>
+      <link>https://recommande.duckdns.org</link>
     </image>
     
     <itunes:category text="Music" />
@@ -50,63 +50,63 @@
         
         
           <item>
-            <title>Recommandé n°0A - Anisong Catharsis</title>
-            <link>http://recommande.duckdns.org/2018/11/02/episode0A.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://recommande.duckdns.org/players/episode0A"/>
-            <comments>http://recommande.duckdns.org/2018/11/02/episode0A.html#disqus_thread</comments>
-            <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+            <title>Recommandé n°0A - Anisong Catharsis vol.1</title>
+            <link>https://recommande.duckdns.org/2018/11/10/episode0A.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode0A"/>
+            <comments>https://recommande.duckdns.org/2018/11/10/episode0A.html#disqus_thread</comments>
+            <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://recommande.duckdns.org/2018/11/02/episode0A.html</guid>
+            <guid isPermaLink="false">https://recommande.duckdns.org/2018/11/10/episode0A.html</guid>
             <description><![CDATA[
 
-<p>C’est le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier épisode pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.</p>
+<h3 id="episode-0a-anisong-catharsis-vol1">Episode 0A: Anisong Catharsis vol.1</h3>
 
-<h2 id="pour-me-contacter">Pour me contacter</h2>
+<p>Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s’est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.</p>
 
-<p>Vous pouvez me proposer vos musiques par les moyens suivants:</p>
+<h4 id="pour-me-contacter-ou-menvoyer-des-musiques-">Pour me contacter ou m’envoyer des musiques :</h4>
 
 <ul>
-  <li>Le champ de commentaires ci-dessous,</li>
-  <li>@yattoz sur Twitter, suivez le bouton dans la bannière à droite,</li>
+  <li>Les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>,</li>
+  <li><a href="https:/twitter.com/yattoz">@yattoz sur Twitter</a>,</li>
   <li>Par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a></li>
   <li>Par message sur Discord, retrouvez le lien sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Calvinball Consortium</a></li>
 </ul>
 
-<h2 id="sources">Sources</h2>
+<h4 id="musiques">Musiques</h4>
 
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql">La playlist Youtube de l’émission</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql">La playlist Youtube de l’épisode</a></li>
 </ul>
 ]]></description>
             <content:encoded><![CDATA[
 
-<p>C’est le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier épisode pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.</p>
+<h3 id="episode-0a-anisong-catharsis-vol1">Episode 0A: Anisong Catharsis vol.1</h3>
 
-<h2 id="pour-me-contacter">Pour me contacter</h2>
+<p>Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s’est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.</p>
 
-<p>Vous pouvez me proposer vos musiques par les moyens suivants:</p>
+<h4 id="pour-me-contacter-ou-menvoyer-des-musiques-">Pour me contacter ou m’envoyer des musiques :</h4>
 
 <ul>
-  <li>Le champ de commentaires ci-dessous,</li>
-  <li>@yattoz sur Twitter, suivez le bouton dans la bannière à droite,</li>
+  <li>Les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>,</li>
+  <li><a href="https:/twitter.com/yattoz">@yattoz sur Twitter</a>,</li>
   <li>Par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a></li>
   <li>Par message sur Discord, retrouvez le lien sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Calvinball Consortium</a></li>
 </ul>
 
-<h2 id="sources">Sources</h2>
+<h4 id="musiques">Musiques</h4>
 
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql">La playlist Youtube de l’émission</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql">La playlist Youtube de l’épisode</a></li>
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://recommande.duckdns.org/episodes/episode0A.mp3" length="87839182" type="audio/mpeg" />
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3" length="45750" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Anisong Catharsis</itunes:subtitle>
+            <itunes:subtitle>Anisong Catharsis vol.1</itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Yattoz</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>1:00:59</itunes:duration>
+            <itunes:duration>1:04:36</itunes:duration>
             
             
             

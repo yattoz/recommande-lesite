@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Recommandé</title>
-  <link href="http://recommande.duckdns.org/general_feed.xml" rel="self"/>
-  <link href="http://recommande.duckdns.org"/>
-  <updated>2018-11-03T18:42:10+00:00</updated>
-  <id>http://recommande.duckdns.org/</id>
+  <link href="https://recommande.duckdns.org/general_feed.xml" rel="self"/>
+  <link href="https://recommande.duckdns.org"/>
+  <updated>2018-11-11T12:07:49+00:00</updated>
+  <id>https://recommande.duckdns.org/</id>
   <author>
     <name>Yattoz</name>
     <email>recommande@hotmail.com</email>
@@ -14,39 +14,37 @@
   
     <entry>
       <title>Recommandé n°0A</title>
-      <link href="http://recommande.duckdns.org/2018/11/02/episode0A.html"/>
-      <updated>2018-11-02T00:00:00+00:00</updated>
-      <id>http://recommande.duckdns.org/2018/11/02/episode0A</id>
+      <link href="https://recommande.duckdns.org/2018/11/10/episode0A.html"/>
+      <updated>2018-11-10T00:00:00+00:00</updated>
+      <id>https://recommande.duckdns.org/2018/11/10/episode0A</id>
       <content type="html">&lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://recommande.duckdns.org/episodes/episode0A.mp3&quot;,&quot;ogg&quot;:&quot;http://recommande.duckdns.org/episodes/episode0A.ogg&quot;},&quot;coverUrl&quot;:&quot;http://recommande.duckdns.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Recommandé n°0A&quot;,&quot;subtitle&quot;:&quot;Anisong Catharsis&quot;,&quot;url&quot;:&quot;http://recommande.duckdns.org/2018/11/02/episode0A.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Recommandé n°0A&quot;,&quot;subtitle&quot;:&quot;Anisong Catharsis vol.1&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/11/10/episode0A.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;http://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
-&lt;p&gt;C’est le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier épisode pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.&lt;/p&gt;
+&lt;h3 id=&quot;episode-0a-anisong-catharsis-vol1&quot;&gt;Episode 0A: Anisong Catharsis vol.1&lt;/h3&gt;
 
-&lt;h2 id=&quot;pour-me-contacter&quot;&gt;Pour me contacter&lt;/h2&gt;
+&lt;p&gt;Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s’est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.&lt;/p&gt;
 
-&lt;p&gt;Vous pouvez me proposer vos musiques par les moyens suivants:&lt;/p&gt;
+&lt;h4 id=&quot;pour-me-contacter-ou-menvoyer-des-musiques-&quot;&gt;Pour me contacter ou m’envoyer des musiques :&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Le champ de commentaires ci-dessous,&lt;/li&gt;
-  &lt;li&gt;@yattoz sur Twitter, suivez le bouton dans la bannière à droite,&lt;/li&gt;
+  &lt;li&gt;Les commentaires de l’épisode &lt;a href=&quot;https://recommande.duckdns.org&quot;&gt;sur le site&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https:/twitter.com/yattoz&quot;&gt;@yattoz sur Twitter&lt;/a&gt;,&lt;/li&gt;
   &lt;li&gt;Par e-mail à &lt;a href=&quot;mailto:recommande@hotmail.com&quot;&gt;recommande@hotmail.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Par message sur Discord, retrouvez le lien sur &lt;a href=&quot;https://calvinballradio.wordpress.com/&quot;&gt;la page officielle du Calvinball Consortium&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;sources&quot;&gt;Sources&lt;/h2&gt;
+&lt;h4 id=&quot;musiques&quot;&gt;Musiques&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql&quot;&gt;La playlist Youtube de l’émission&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql&quot;&gt;La playlist Youtube de l’épisode&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
       
-        <link rel="enclosure" type="audio/mpeg" length="87839182" href="http://recommande.duckdns.org/episodes/episode0A.mp3"/>
-      
-        <link rel="enclosure" type="audio/ogg; codecs=vorbis" length="53899058" href="http://recommande.duckdns.org/episodes/episode0A.ogg"/>
+        <link rel="enclosure" type="audio/mpeg" length="45750" href="https://recommande.duckdns.org/episodes/episode0A.mp3"/>
       
       
     </entry>

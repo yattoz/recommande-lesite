@@ -1,21 +1,21 @@
 title: Recommandé
-url: http://recommande.duckdns.org
+url: https://recommande.duckdns.org
 
 ### download_url: is needed, if and only if audio files are hosted in a different location, it is the path of the directory where the audio files are stored
-#download_url: "https://recommande.duckdns.org"
+download_url: "https://dts.podtrac.com/redirect.mp3/recommande.duckdns.org/episodes"
 subtitle: Le podcast musical par vidéos recommandées. 
-description: En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée, mais toujours en retombant sur nos pattes.
+description: En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 author: Yattoz
 
 ### author_url: This is the URL of a site owned by the author (see https://jsonfeed.org/version/1)
-author_url: "http://recommande.duckdns.org"
+author_url: "https://recommande.duckdns.org"
 
 email: recommande@hotmail.com
 keywords: [octopod, podcast, music, musique, youtube, recommandé]
 itunes_categories: [Music]
 episodes_per_feed_page: 100
 
-player_theme: "minimal" # default | "default-dark" | legacy | minimal | republica
+player_theme: default-dark # default | "default-dark" | legacy | minimal | republica
 
 ### Date can be localized via date_de.rb plugin, you don't need to change this
 date_format: ordinal

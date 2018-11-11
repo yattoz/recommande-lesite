@@ -14,6 +14,14 @@ Retrouvez le Calvinball Consortium auquel je participe occasionnellement, au bou
 
 # License
 
-J'utilise la licence Creative Commons CC-BY-NC-SA. Pour en savoir plus, je vous invite à cliquer sur l'icône suivante.
+Ma production est sous licence Creative Commons CC-BY-NC-SA. Pour en savoir plus, je vous invite à cliquer sur l'icône suivante.
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+Les oeuvres utilisées sont sous leurs licences respectives.
+
+
+# Remerciements
+
+- Le Calvinball Consortium, *tout petit network* de podcasts rigolos, dont je fais partie,
+- Le serveur Shelter qui héberge les épisodes, dont l'espace m'a été gracieusement alloué par AxelTerizaki. Tous les sites hébergés par Shelter sont visibles sur la page principale : [https://shelter.mahoro-net.org/](https://shelter.mahoro-net.org/).
+- L'extension Jekyll-Octopod qui permet la création de ce site, plus d'informations sur le site [https://jekyll-octopod.github.io/](https://jekyll-octopod.github.io/)

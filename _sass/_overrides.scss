@@ -1,6 +1,6 @@
 // Improve visibility of subtitles and similar text by increasing contrast
 h1 small, h2 small, h3 small {
-  color: #77778C;
+  color: rgb(77, 77, 90);
 }
 
 btn small, .btn small {
@@ -14,10 +14,11 @@ btn small, .btn small {
 
 // Theme for the Swiss-Sided Dice podcast, red and white based on the Swiss flag - commented out for now, until a better solution can be found
 
-/*
+
 // Main navbar background
 .navbar-default {
-  background-color: #E11A27;
+  background-color: #4f83bd;
+  border-color: #4f83bd;
 }
 
 // Hovering over navbar links, keep the text white, but add darker background
@@ -26,7 +27,7 @@ btn small, .btn small {
 .navbar-default .navbar-nav > .active > a:focus,
 .navbar-default .navbar-nav > li > a {
   color: #FFF;
-  background-color: #E11A27;
+  background-color: #4f83bd;
 }
 
 // The "brand" / podcast title doesn't change on hover, but does keep the text white
@@ -36,33 +37,52 @@ btn small, .btn small {
 
 // This is for the menu button on narrow screens
 .navbar-default .navbar-toggle {
-  background-color: #E11A27;
+  background-color: #4f83bd;
   border-color: #FFF;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #FFF;
+
 }
 
 // Darker background, keep rest white
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-nav > li > a:hover {
-  background-color: #A5131D;
+  background-color: #16365c;
   border-color: #FFF;
   color: #FFF;
 }
 
 // Links and buttons in the website are a dark red for best contrast, but get lightened on hover for feedback
 a {
-  color: #CF000F;
+  color: #325277;
 }
 a:hover {
-  color: #EF3743;
+  color: #328cf1;
 }
 .btn-primary {
-  background-color: #CF000F;
+  background-color: #4f83bd;
 }
 .btn-primary:hover, .btn-primary:focus {
-  background-color: #EF3743;
+  background-color: #16365c;
 }
-*/
+
+.btn-info {
+  background-color: #4f83bd;
+  border-color: #4f83bd;
+}
+.btn-info:hover, .btn-info:focus {
+  background-color: #16365c;
+  border-color: #16365c;
+}
+
+body{
+  background-color: #cbcbcb;
+}
+
+// doesnt work :(
+.podcast-player{
+  background-color: #232323;
+}
+

@@ -19,7 +19,7 @@
     
     <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 </description>
-    <lastBuildDate>Sun, 11 Nov 2018 12:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Nov 2018 16:40:19 +0000</lastBuildDate>
     <language>fr</language>
     <generator>Jekyll-Octopod 0.9.9</generator>
 
@@ -100,7 +100,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3" length="45750" type="audio/mpeg" />
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3" length="0" type="audio/mpeg" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Anisong Catharsis vol.1</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -110,6 +110,13 @@
             
             
             
+            
+              <itunes:image href="https://recommande.duckdns.org/img/0A-anisong-catharsis-vol1.jpg" />
+              <image>
+                <title></title>
+                <url>https://recommande.duckdns.org/img/0A-anisong-catharsis-vol1.jpg</url>
+                <link>https://recommande.duckdns.org</link>
+              </image>
             
           </item>
         

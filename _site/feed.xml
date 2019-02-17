@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://recommande.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recommande.duckdns.org/" rel="alternate" type="text/html" /><updated>2019-01-08T12:08:33+00:00</updated><id>https://recommande.duckdns.org/feed.xml</id><title type="html">Recommandé</title><subtitle>En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.</subtitle><author><name>Yattoz</name></author><entry><title type="html">Recommandé n°2</title><link href="https://recommande.duckdns.org/2019/01/08/episode02.html" rel="alternate" type="text/html" title="Recommandé n°2" /><published>2019-01-08T00:00:00+00:00</published><updated>2019-01-08T00:00:00+00:00</updated><id>https://recommande.duckdns.org/2019/01/08/episode02</id><content type="html" xml:base="https://recommande.duckdns.org/2019/01/08/episode02.html">&lt;script&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://recommande.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recommande.duckdns.org/" rel="alternate" type="text/html" /><updated>2019-02-03T18:34:21+00:00</updated><id>https://recommande.duckdns.org/feed.xml</id><title type="html">Recommandé</title><subtitle>En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.</subtitle><author><name>Yattoz</name></author><entry><title type="html">Recommandé n°3</title><link href="https://recommande.duckdns.org/2019/02/01/episode03.html" rel="alternate" type="text/html" title="Recommandé n°3" /><published>2019-02-01T00:00:00+00:00</published><updated>2019-02-01T00:00:00+00:00</updated><id>https://recommande.duckdns.org/2019/02/01/episode03</id><content type="html" xml:base="https://recommande.duckdns.org/2019/02/01/episode03.html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode03.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/03.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°3&quot;,&quot;subtitle&quot;:&quot;Curieusement Satisfaisant&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/02/01/episode03.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h3 id=&quot;episode-3-curieusement-satisfaisant&quot;&gt;Episode 3: Curieusement Satisfaisant&lt;/h3&gt;
+
+&lt;p&gt;Enfin, cet épisode 3 qui aura mis plus de temps que prévu ! Cette fois-ci on commence par du reggae (et &lt;em&gt;sasuga&lt;/em&gt; moi d’avoir remplacé quasi-systématiquement reggae par hip-hop, j’avais pas le mot au moment d’enregistrer, il était tard.) Merci à Un Rieur pour sa recommandation, c’était très cool et ça m’a permis de lancer des trucs que j’aurais jamais lancé autrement, notamment ça m’a fait réécouter du Deluxe (et c’est vachement chouette Deluxe).&lt;/p&gt;
+
+&lt;p&gt;Au programme, de l’orchestral (enfin !), des surprises pour tout le monde (moi y compris), et ma meilleure imitation d’une présentatrice de la radio. Ne me remerciez pas, c’est cadeau de la maison.&lt;/p&gt;
+
+&lt;p&gt;Toujours aucun thème prévu pour la suite, donc je suis à la merci de vos suggestions, profitez-en !&lt;/p&gt;
+
+&lt;h4 id=&quot;contact&quot;&gt;Contact&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Retrouvez-moi sur Twitter &lt;a href=&quot;https://twitter.com/yattoz&quot;&gt;@yattoz&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;Rejoignez le &lt;a href=&quot;https://discord.gg/4RnA9v7&quot;&gt;Discord du Calvinball Consortium&lt;/a&gt;, retrouvez toutes les productions sur &lt;a href=&quot;https://calvinballradio.wordpress.com/&quot;&gt;la page officielle du Consortium&lt;/a&gt;. Le Discord est un endroit chatoyant où il fait bon vivre.&lt;/li&gt;
+  &lt;li&gt;Plus simplement par e-mail, à &lt;a href=&quot;mailto:recommande@hotmail.com&quot;&gt;recommande@hotmail.com&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;Et bien sûr, dans les commentaires de l’épisode &lt;a href=&quot;https://recommande.duckdns.org&quot;&gt;sur le site&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;illustration&quot;&gt;Illustration&lt;/h4&gt;
+
+&lt;p&gt;La pochette est un extrait d’une vidéo de Kekefllipnote, talentueux animateur dont vous retrouverez la chaine en &lt;a href=&quot;https://www.youtube.com/user/kekeflipnote&quot;&gt;cliquant ici&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;musiques&quot;&gt;Musiques&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLIgk8mzU2JAVuVMCRWfOUyXNymsYBy8Q1&quot;&gt;La playlist Youtube de l’épisode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=x0ZfwSQDLK0&quot;&gt;Moi quand je retourne en France et que je retrouve une bonne baguette&lt;/a&gt;&lt;/p&gt;</content><author><name>Yattoz</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://recommande.duckdns.org/03.jpg" /></entry><entry><title type="html">Recommandé n°2</title><link href="https://recommande.duckdns.org/2019/01/08/episode02.html" rel="alternate" type="text/html" title="Recommandé n°2" /><published>2019-01-08T00:00:00+00:00</published><updated>2019-01-08T00:00:00+00:00</updated><id>https://recommande.duckdns.org/2019/01/08/episode02</id><content type="html" xml:base="https://recommande.duckdns.org/2019/01/08/episode02.html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode02.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/02.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°2&quot;,&quot;subtitle&quot;:&quot;Tension Sensuelle&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/01/08/episode02.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 

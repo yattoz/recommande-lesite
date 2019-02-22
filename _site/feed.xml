@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://recommande.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recommande.duckdns.org/" rel="alternate" type="text/html" /><updated>2019-02-03T18:34:21+00:00</updated><id>https://recommande.duckdns.org/feed.xml</id><title type="html">Recommandé</title><subtitle>En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.</subtitle><author><name>Yattoz</name></author><entry><title type="html">Recommandé n°3</title><link href="https://recommande.duckdns.org/2019/02/01/episode03.html" rel="alternate" type="text/html" title="Recommandé n°3" /><published>2019-02-01T00:00:00+00:00</published><updated>2019-02-01T00:00:00+00:00</updated><id>https://recommande.duckdns.org/2019/02/01/episode03</id><content type="html" xml:base="https://recommande.duckdns.org/2019/02/01/episode03.html">&lt;script&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="https://recommande.duckdns.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://recommande.duckdns.org/" rel="alternate" type="text/html" /><updated>2019-02-22T12:21:21+00:00</updated><id>https://recommande.duckdns.org/feed.xml</id><title type="html">Recommandé</title><subtitle>En partant d'une musique choisie de préférence parmi les propositions d'auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.</subtitle><author><name>Yattoz</name></author><entry><title type="html">Recommandé n°4</title><link href="https://recommande.duckdns.org/2019/02/22/episode04.html" rel="alternate" type="text/html" title="Recommandé n°4" /><published>2019-02-22T00:00:00+00:00</published><updated>2019-02-22T00:00:00+00:00</updated><id>https://recommande.duckdns.org/2019/02/22/episode04</id><content type="html" xml:base="https://recommande.duckdns.org/2019/02/22/episode04.html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode04.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/04.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°4&quot;,&quot;subtitle&quot;:&quot;POPJAPON&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/02/22/episode04.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h3 id=&quot;episode-4-popjapon&quot;&gt;Episode 4: POPJAPON&lt;/h3&gt;
+
+&lt;p&gt;Voici l’épisode 4, sobrement intitulé POPJAPON, en référence à un &lt;em&gt;célèbre podcast de Radiokawa&lt;/em&gt; que j’aime beaucoup. Evidemment rien ne s’est passé comme prévu, l’enregistrement hier a explosé, j’ai dû en refaire un en urgence, puis faire du traitement de son à la machette, y’a des saturations dégueulasses au début, bref, &lt;em&gt;super fun&lt;/em&gt;. (Je suis tellement désolé.)&lt;/p&gt;
+
+&lt;p&gt;Titre assez explicite, un petit voyage dans la musique pop grâces aux vidéos recommandées de Youtube. Merci à Ashki pour ses (nombreuses) recommandations, mais aussi Clafoutea, Murray24, Le Mollusque, et tous les autres. Bien que d’un genre que j’écoute assez régulièrement, ça ne m’a pas empêché de faire de jolies découvertes, et j’espère qu’il en sera de même pour vous ! J’ai pu faire l’expérimentation que ce qui se passait quand une même personne m’envoie 12 titres dans le même registre, mais sans complètement partir n’importe où, et surtout sans trop succomber aux recommandations faciles de mon compte (un peu, mais pas trop), j’ai fait une playlist relativement thématique, avec un genre de fil conducteur, et c’était très sympa.
+Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour orienter mes recommandations ! Aucune limite, aucun titre exclu, tant que c’est sur Youtube, je l’écouterai.&lt;/p&gt;
+
+&lt;h4 id=&quot;contact&quot;&gt;Contact&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Retrouvez-moi sur Twitter &lt;a href=&quot;https://twitter.com/yattoz&quot;&gt;@yattoz&lt;/a&gt; et suivez le compte officiel du podcast, &lt;a href=&quot;https://twitter.com/recommande0&quot;&gt;@recommande0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rejoignez le &lt;a href=&quot;https://discord.gg/4RnA9v7&quot;&gt;Discord du Calvinball Consortium&lt;/a&gt;, retrouvez toutes les productions sur &lt;a href=&quot;https://calvinballradio.wordpress.com/&quot;&gt;la page officielle du Consortium&lt;/a&gt;. Le Discord est un endroit chatoyant où il fait bon vivre.&lt;/li&gt;
+  &lt;li&gt;Plus simplement par e-mail, à &lt;a href=&quot;mailto:recommande@hotmail.com&quot;&gt;recommande@hotmail.com&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;Et bien sûr, dans les commentaires de l’épisode &lt;a href=&quot;https://recommande.duckdns.org&quot;&gt;sur le site&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;musiques&quot;&gt;Musiques&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLIgk8mzU2JAWpE6tsSUJIoA3TQ2pD5XBp&quot;&gt;La playlist Youtube de l’épisode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;illustration&quot;&gt;Illustration&lt;/h4&gt;
+
+&lt;p&gt;La pochette est une image de donuts de Google Images, probablement pas libre de droits, mais tant pis.&lt;/p&gt;
+
+&lt;h4 id=&quot;documentation&quot;&gt;Documentation&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Denpa_(musique)&quot;&gt;Denpa song - Wikipédia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jpop.fandom.com/wiki/GANG_PARADE&quot;&gt;GANG PARADE - Jpop Wikia (beaucoup d’informations !)&lt;/a&gt; (fouillez le wikia pour plus d’infos sur les différents groupes !)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Petit extrait de l’article “Denpa song” :&lt;/p&gt;
+
+&lt;p&gt;“Les chansons denpa consistent en des paroles et mélodies très insolites plaisant à leurs publics, qui seraient alors “hypnotisés” et sous le contrôle de l’originalité de ces chansons. Cette sensation d’avoir été empoisonné et soumis à un lavage de cerveau par ces chansons s’appelle doku-denpa 毒電波 (“ondes électromagnétiques empoisonnées”?).”&lt;/p&gt;
+
+&lt;p&gt;Fascinant n’est-ce pas ?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=JQveNljnisE&quot;&gt;Un exemple de recommandation hautement improbable que j’ai reçue&lt;/a&gt;&lt;/p&gt;</content><author><name>Yattoz</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://recommande.duckdns.org/04.jpg" /></entry><entry><title type="html">Recommandé n°3</title><link href="https://recommande.duckdns.org/2019/02/01/episode03.html" rel="alternate" type="text/html" title="Recommandé n°3" /><published>2019-02-01T00:00:00+00:00</published><updated>2019-02-01T00:00:00+00:00</updated><id>https://recommande.duckdns.org/2019/02/01/episode03</id><content type="html" xml:base="https://recommande.duckdns.org/2019/02/01/episode03.html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode03.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/03.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°3&quot;,&quot;subtitle&quot;:&quot;Curieusement Satisfaisant&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/02/01/episode03.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
 &lt;/script&gt;
 

@@ -4,13 +4,58 @@
   <title>Recommandé</title>
   <link href="https://recommande.duckdns.org/general_feed.xml" rel="self"/>
   <link href="https://recommande.duckdns.org"/>
-  <updated>2019-02-22T12:21:21+00:00</updated>
+  <updated>2019-03-15T22:53:09+00:00</updated>
   <id>https://recommande.duckdns.org/</id>
   <author>
     <name>Yattoz</name>
     <email>recommande@hotmail.com</email>
   </author>
 
+  
+    <entry>
+      <title>Recommandé n°5</title>
+      <link href="https://recommande.duckdns.org/2019/03/15/episode05.html"/>
+      <updated>2019-03-15T00:00:00+00:00</updated>
+      <id>https://recommande.duckdns.org/2019/03/15/episode05</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode05.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/05.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°5&quot;,&quot;subtitle&quot;:&quot;De Sang Royal&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/03/15/episode05.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h3 id=&quot;episode-5-de-sang-royal&quot;&gt;Episode 5: De Sang Royal&lt;/h3&gt;
+
+&lt;p&gt;Un nouvel épisode avec un peu de diversité, merci pour toutes vos recommandations ! Je commence à avoir des trucs vraiment cheulous, mais Youtube me recommande pas mal de trucs sympas, comme vous pourrez l’entendre dans cet épisode. J’ai fait quelques erreurs dans mon texte, Nekfeu a lancé sa carrière solo en 2015, et Gringe se prononce comme “grincer” (j’en avais aucune idée quand j’ai enregistré, tant pis.)&lt;/p&gt;
+
+&lt;p&gt;J’espère que ça vous plaira ! Je prends toujours les suggestions tout le temps, sans vraiment de limites (mais soyez gentils, n’envoyez pas des dizaines de titres d’un coup, c’est pas du jeu, hein.) Si vous tombez sur un truc rigolo ou sympa, il suffit de m’envoyer un petit message pour parasiter mon historique et avoir une chance de l’entendre l’émission.&lt;/p&gt;
+
+&lt;h4 id=&quot;contact&quot;&gt;Contact&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Retrouvez-moi sur Twitter &lt;a href=&quot;https://twitter.com/yattoz&quot;&gt;@yattoz&lt;/a&gt; et suivez le compte officiel du podcast, &lt;a href=&quot;https://twitter.com/recommande0&quot;&gt;@recommande0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rejoignez le &lt;a href=&quot;https://discord.gg/4RnA9v7&quot;&gt;Discord du Calvinball Consortium&lt;/a&gt;, retrouvez toutes les productions sur &lt;a href=&quot;https://calvinballradio.wordpress.com/&quot;&gt;la page officielle du Consortium&lt;/a&gt;. Le Discord est un endroit chatoyant où il fait bon vivre.&lt;/li&gt;
+  &lt;li&gt;Plus simplement par e-mail, à &lt;a href=&quot;mailto:recommande@hotmail.com&quot;&gt;recommande@hotmail.com&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;Et bien sûr, tous les épisodes sont &lt;a href=&quot;https://recommande.duckdns.org&quot;&gt;sur le site&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;musiques&quot;&gt;Musiques&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLIgk8mzU2JAVWdlZE2jjH2Ub4aYiUrZ1n&quot;&gt;La playlist Youtube de l’épisode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;illustration&quot;&gt;Illustration&lt;/h4&gt;
+
+&lt;p&gt;La pochette est une enluminure datant du XIIIe ou XIVe siècle représentant le couronnement de Hugues Capet.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UMlLcjpzzjc&quot;&gt;Alors alors ?&lt;/a&gt;&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode05.mp3"/>
+      
+      
+    </entry>
   
     <entry>
       <title>Recommandé n°4</title>

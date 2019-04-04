@@ -19,7 +19,7 @@
     
     <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 </description>
-    <lastBuildDate>Fri, 15 Mar 2019 22:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 14:39:10 +0000</lastBuildDate>
     <language>fr</language>
     <generator>Jekyll-Octopod 0.9.9</generator>
 
@@ -57,63 +57,59 @@
             <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/03/15/episode05.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-5-de-sang-royal">Episode 5: De Sang Royal</h3>
+### Episode 5: De Sang Royal
 
-<p>Un nouvel épisode avec un peu de diversité, merci pour toutes vos recommandations ! Je commence à avoir des trucs vraiment cheulous, mais Youtube me recommande pas mal de trucs sympas, comme vous pourrez l’entendre dans cet épisode. J’ai fait quelques erreurs dans mon texte, Nekfeu a lancé sa carrière solo en 2015, et Gringe se prononce comme “grincer” (j’en avais aucune idée quand j’ai enregistré, tant pis.)</p>
+Un nouvel épisode avec un peu de diversité, merci pour toutes vos recommandations ! Je commence à avoir des trucs vraiment cheulous, mais Youtube me recommande pas mal de trucs sympas, comme vous pourrez l'entendre dans cet épisode. J'ai fait quelques erreurs dans mon texte, Nekfeu a lancé sa carrière solo en 2015, et Gringe se prononce comme "grincer" (j'en avais aucune idée quand j'ai enregistré, tant pis.)
 
-<p>J’espère que ça vous plaira ! Je prends toujours les suggestions tout le temps, sans vraiment de limites (mais soyez gentils, n’envoyez pas des dizaines de titres d’un coup, c’est pas du jeu, hein.) Si vous tombez sur un truc rigolo ou sympa, il suffit de m’envoyer un petit message pour parasiter mon historique et avoir une chance de l’entendre l’émission.</p>
+J'espère que ça vous plaira ! Je prends toujours les suggestions tout le temps, sans vraiment de limites (mais soyez gentils, n'envoyez pas des dizaines de titres d'un coup, c'est pas du jeu, hein.) Si vous tombez sur un truc rigolo ou sympa, il suffit de m'envoyer un petit message pour parasiter mon historique et avoir une chance de l'entendre l'émission.
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a> et suivez le compte officiel du podcast, <a href="https://twitter.com/recommande0">@recommande0</a></li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, tous les épisodes sont <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz) et suivez le compte officiel du podcast, [@recommande0](https://twitter.com/recommande0)
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail, à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, tous les épisodes sont [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVWdlZE2jjH2Ub4aYiUrZ1n">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
 
-<h4 id="illustration">Illustration</h4>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVWdlZE2jjH2Ub4aYiUrZ1n)
 
-<p>La pochette est une enluminure datant du XIIIe ou XIVe siècle représentant le couronnement de Hugues Capet.</p>
+#### Illustration
 
-<p><a href="https://www.youtube.com/watch?v=UMlLcjpzzjc">Alors alors ?</a></p>
+La pochette est une enluminure datant du XIIIe ou XIVe siècle représentant le couronnement de Hugues Capet.
+
+
+[Alors alors ?](https://www.youtube.com/watch?v=UMlLcjpzzjc)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-5-de-sang-royal">Episode 5: De Sang Royal</h3>
+### Episode 5: De Sang Royal
 
-<p>Un nouvel épisode avec un peu de diversité, merci pour toutes vos recommandations ! Je commence à avoir des trucs vraiment cheulous, mais Youtube me recommande pas mal de trucs sympas, comme vous pourrez l’entendre dans cet épisode. J’ai fait quelques erreurs dans mon texte, Nekfeu a lancé sa carrière solo en 2015, et Gringe se prononce comme “grincer” (j’en avais aucune idée quand j’ai enregistré, tant pis.)</p>
+Un nouvel épisode avec un peu de diversité, merci pour toutes vos recommandations ! Je commence à avoir des trucs vraiment cheulous, mais Youtube me recommande pas mal de trucs sympas, comme vous pourrez l'entendre dans cet épisode. J'ai fait quelques erreurs dans mon texte, Nekfeu a lancé sa carrière solo en 2015, et Gringe se prononce comme "grincer" (j'en avais aucune idée quand j'ai enregistré, tant pis.)
 
-<p>J’espère que ça vous plaira ! Je prends toujours les suggestions tout le temps, sans vraiment de limites (mais soyez gentils, n’envoyez pas des dizaines de titres d’un coup, c’est pas du jeu, hein.) Si vous tombez sur un truc rigolo ou sympa, il suffit de m’envoyer un petit message pour parasiter mon historique et avoir une chance de l’entendre l’émission.</p>
+J'espère que ça vous plaira ! Je prends toujours les suggestions tout le temps, sans vraiment de limites (mais soyez gentils, n'envoyez pas des dizaines de titres d'un coup, c'est pas du jeu, hein.) Si vous tombez sur un truc rigolo ou sympa, il suffit de m'envoyer un petit message pour parasiter mon historique et avoir une chance de l'entendre l'émission.
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a> et suivez le compte officiel du podcast, <a href="https://twitter.com/recommande0">@recommande0</a></li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, tous les épisodes sont <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz) et suivez le compte officiel du podcast, [@recommande0](https://twitter.com/recommande0)
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail, à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, tous les épisodes sont [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVWdlZE2jjH2Ub4aYiUrZ1n">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
 
-<h4 id="illustration">Illustration</h4>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVWdlZE2jjH2Ub4aYiUrZ1n)
 
-<p>La pochette est une enluminure datant du XIIIe ou XIVe siècle représentant le couronnement de Hugues Capet.</p>
+#### Illustration
 
-<p><a href="https://www.youtube.com/watch?v=UMlLcjpzzjc">Alors alors ?</a></p>
+La pochette est une enluminure datant du XIIIe ou XIVe siècle représentant le couronnement de Hugues Capet.
+
+
+[Alors alors ?](https://www.youtube.com/watch?v=UMlLcjpzzjc)
 ]]></content:encoded>
             
             <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode05.mp3" length="0" type="audio/mpeg" />
@@ -149,91 +145,83 @@
             <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/02/22/episode04.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-4-popjapon">Episode 4: POPJAPON</h3>
+### Episode 4: POPJAPON
 
-<p>Voici l’épisode 4, sobrement intitulé POPJAPON, en référence à un <em>célèbre podcast de Radiokawa</em> que j’aime beaucoup. Evidemment rien ne s’est passé comme prévu, l’enregistrement hier a explosé, j’ai dû en refaire un en urgence, puis faire du traitement de son à la machette, y’a des saturations dégueulasses au début, bref, <em>super fun</em>. (Je suis tellement désolé.)</p>
+Voici l'épisode 4, sobrement intitulé POPJAPON, en référence à un *célèbre podcast de Radiokawa* que j'aime beaucoup. Evidemment rien ne s'est passé comme prévu, l'enregistrement hier a explosé, j'ai dû en refaire un en urgence, puis faire du traitement de son à la machette, y'a des saturations dégueulasses au début, bref, *super fun*. (Je suis tellement désolé.)
 
-<p>Titre assez explicite, un petit voyage dans la musique pop grâces aux vidéos recommandées de Youtube. Merci à Ashki pour ses (nombreuses) recommandations, mais aussi Clafoutea, Murray24, Le Mollusque, et tous les autres. Bien que d’un genre que j’écoute assez régulièrement, ça ne m’a pas empêché de faire de jolies découvertes, et j’espère qu’il en sera de même pour vous ! J’ai pu faire l’expérimentation que ce qui se passait quand une même personne m’envoie 12 titres dans le même registre, mais sans complètement partir n’importe où, et surtout sans trop succomber aux recommandations faciles de mon compte (un peu, mais pas trop), j’ai fait une playlist relativement thématique, avec un genre de fil conducteur, et c’était très sympa.
-Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour orienter mes recommandations ! Aucune limite, aucun titre exclu, tant que c’est sur Youtube, je l’écouterai.</p>
+Titre assez explicite, un petit voyage dans la musique pop grâces aux vidéos recommandées de Youtube. Merci à Ashki pour ses (nombreuses) recommandations, mais aussi Clafoutea, Murray24, Le Mollusque, et tous les autres. Bien que d'un genre que j'écoute assez régulièrement, ça ne m'a pas empêché de faire de jolies découvertes, et j'espère qu'il en sera de même pour vous ! J'ai pu faire l'expérimentation que ce qui se passait quand une même personne m'envoie 12 titres dans le même registre, mais sans complètement partir n'importe où, et surtout sans trop succomber aux recommandations faciles de mon compte (un peu, mais pas trop), j'ai fait une playlist relativement thématique, avec un genre de fil conducteur, et c'était très sympa.
+Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour orienter mes recommandations ! Aucune limite, aucun titre exclu, tant que c'est sur Youtube, je l'écouterai.
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a> et suivez le compte officiel du podcast, <a href="https://twitter.com/recommande0">@recommande0</a></li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz) et suivez le compte officiel du podcast, [@recommande0](https://twitter.com/recommande0)
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail, à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAWpE6tsSUJIoA3TQ2pD5XBp">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
 
-<h4 id="illustration">Illustration</h4>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAWpE6tsSUJIoA3TQ2pD5XBp)
 
-<p>La pochette est une image de donuts de Google Images, probablement pas libre de droits, mais tant pis.</p>
+#### Illustration
 
-<h4 id="documentation">Documentation</h4>
+La pochette est une image de donuts de Google Images, probablement pas libre de droits, mais tant pis.
 
-<ul>
-  <li><a href="https://fr.wikipedia.org/wiki/Denpa_(musique)">Denpa song - Wikipédia</a></li>
-  <li><a href="https://jpop.fandom.com/wiki/GANG_PARADE">GANG PARADE - Jpop Wikia (beaucoup d’informations !)</a> (fouillez le wikia pour plus d’infos sur les différents groupes !)</li>
-</ul>
 
-<p>Petit extrait de l’article “Denpa song” :</p>
+#### Documentation
 
-<p>“Les chansons denpa consistent en des paroles et mélodies très insolites plaisant à leurs publics, qui seraient alors “hypnotisés” et sous le contrôle de l’originalité de ces chansons. Cette sensation d’avoir été empoisonné et soumis à un lavage de cerveau par ces chansons s’appelle doku-denpa 毒電波 (“ondes électromagnétiques empoisonnées”?).”</p>
+- [Denpa song - Wikipédia](https://fr.wikipedia.org/wiki/Denpa_(musique))
+- [GANG PARADE - Jpop Wikia (beaucoup d'informations !)](https://jpop.fandom.com/wiki/GANG_PARADE) (fouillez le wikia pour plus d'infos sur les différents groupes !)
 
-<p>Fascinant n’est-ce pas ?</p>
+Petit extrait de l'article "Denpa song" :
 
-<p><a href="https://www.youtube.com/watch?v=JQveNljnisE">Un exemple de recommandation hautement improbable que j’ai reçue</a></p>
+"Les chansons denpa consistent en des paroles et mélodies très insolites plaisant à leurs publics, qui seraient alors "hypnotisés" et sous le contrôle de l'originalité de ces chansons. Cette sensation d'avoir été empoisonné et soumis à un lavage de cerveau par ces chansons s'appelle doku-denpa 毒電波 ("ondes électromagnétiques empoisonnées"?)."
+
+Fascinant n'est-ce pas ?  
+
+[Un exemple de recommandation hautement improbable que j'ai reçue](https://www.youtube.com/watch?v=JQveNljnisE)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-4-popjapon">Episode 4: POPJAPON</h3>
+### Episode 4: POPJAPON
 
-<p>Voici l’épisode 4, sobrement intitulé POPJAPON, en référence à un <em>célèbre podcast de Radiokawa</em> que j’aime beaucoup. Evidemment rien ne s’est passé comme prévu, l’enregistrement hier a explosé, j’ai dû en refaire un en urgence, puis faire du traitement de son à la machette, y’a des saturations dégueulasses au début, bref, <em>super fun</em>. (Je suis tellement désolé.)</p>
+Voici l'épisode 4, sobrement intitulé POPJAPON, en référence à un *célèbre podcast de Radiokawa* que j'aime beaucoup. Evidemment rien ne s'est passé comme prévu, l'enregistrement hier a explosé, j'ai dû en refaire un en urgence, puis faire du traitement de son à la machette, y'a des saturations dégueulasses au début, bref, *super fun*. (Je suis tellement désolé.)
 
-<p>Titre assez explicite, un petit voyage dans la musique pop grâces aux vidéos recommandées de Youtube. Merci à Ashki pour ses (nombreuses) recommandations, mais aussi Clafoutea, Murray24, Le Mollusque, et tous les autres. Bien que d’un genre que j’écoute assez régulièrement, ça ne m’a pas empêché de faire de jolies découvertes, et j’espère qu’il en sera de même pour vous ! J’ai pu faire l’expérimentation que ce qui se passait quand une même personne m’envoie 12 titres dans le même registre, mais sans complètement partir n’importe où, et surtout sans trop succomber aux recommandations faciles de mon compte (un peu, mais pas trop), j’ai fait une playlist relativement thématique, avec un genre de fil conducteur, et c’était très sympa.
-Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour orienter mes recommandations ! Aucune limite, aucun titre exclu, tant que c’est sur Youtube, je l’écouterai.</p>
+Titre assez explicite, un petit voyage dans la musique pop grâces aux vidéos recommandées de Youtube. Merci à Ashki pour ses (nombreuses) recommandations, mais aussi Clafoutea, Murray24, Le Mollusque, et tous les autres. Bien que d'un genre que j'écoute assez régulièrement, ça ne m'a pas empêché de faire de jolies découvertes, et j'espère qu'il en sera de même pour vous ! J'ai pu faire l'expérimentation que ce qui se passait quand une même personne m'envoie 12 titres dans le même registre, mais sans complètement partir n'importe où, et surtout sans trop succomber aux recommandations faciles de mon compte (un peu, mais pas trop), j'ai fait une playlist relativement thématique, avec un genre de fil conducteur, et c'était très sympa.
+Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour orienter mes recommandations ! Aucune limite, aucun titre exclu, tant que c'est sur Youtube, je l'écouterai.
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a> et suivez le compte officiel du podcast, <a href="https://twitter.com/recommande0">@recommande0</a></li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz) et suivez le compte officiel du podcast, [@recommande0](https://twitter.com/recommande0)
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail, à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAWpE6tsSUJIoA3TQ2pD5XBp">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
 
-<h4 id="illustration">Illustration</h4>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAWpE6tsSUJIoA3TQ2pD5XBp)
 
-<p>La pochette est une image de donuts de Google Images, probablement pas libre de droits, mais tant pis.</p>
+#### Illustration
 
-<h4 id="documentation">Documentation</h4>
+La pochette est une image de donuts de Google Images, probablement pas libre de droits, mais tant pis.
 
-<ul>
-  <li><a href="https://fr.wikipedia.org/wiki/Denpa_(musique)">Denpa song - Wikipédia</a></li>
-  <li><a href="https://jpop.fandom.com/wiki/GANG_PARADE">GANG PARADE - Jpop Wikia (beaucoup d’informations !)</a> (fouillez le wikia pour plus d’infos sur les différents groupes !)</li>
-</ul>
 
-<p>Petit extrait de l’article “Denpa song” :</p>
+#### Documentation
 
-<p>“Les chansons denpa consistent en des paroles et mélodies très insolites plaisant à leurs publics, qui seraient alors “hypnotisés” et sous le contrôle de l’originalité de ces chansons. Cette sensation d’avoir été empoisonné et soumis à un lavage de cerveau par ces chansons s’appelle doku-denpa 毒電波 (“ondes électromagnétiques empoisonnées”?).”</p>
+- [Denpa song - Wikipédia](https://fr.wikipedia.org/wiki/Denpa_(musique))
+- [GANG PARADE - Jpop Wikia (beaucoup d'informations !)](https://jpop.fandom.com/wiki/GANG_PARADE) (fouillez le wikia pour plus d'infos sur les différents groupes !)
 
-<p>Fascinant n’est-ce pas ?</p>
+Petit extrait de l'article "Denpa song" :
 
-<p><a href="https://www.youtube.com/watch?v=JQveNljnisE">Un exemple de recommandation hautement improbable que j’ai reçue</a></p>
+"Les chansons denpa consistent en des paroles et mélodies très insolites plaisant à leurs publics, qui seraient alors "hypnotisés" et sous le contrôle de l'originalité de ces chansons. Cette sensation d'avoir été empoisonné et soumis à un lavage de cerveau par ces chansons s'appelle doku-denpa 毒電波 ("ondes électromagnétiques empoisonnées"?)."
+
+Fascinant n'est-ce pas ?  
+
+[Un exemple de recommandation hautement improbable que j'ai reçue](https://www.youtube.com/watch?v=JQveNljnisE)
 ]]></content:encoded>
             
             <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode04.mp3" length="0" type="audio/mpeg" />
@@ -269,67 +257,63 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/02/01/episode03.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-3-curieusement-satisfaisant">Episode 3: Curieusement Satisfaisant</h3>
+### Episode 3: Curieusement Satisfaisant
 
-<p>Enfin, cet épisode 3 qui aura mis plus de temps que prévu ! Cette fois-ci on commence par du reggae (et <em>sasuga</em> moi d’avoir remplacé quasi-systématiquement reggae par hip-hop, j’avais pas le mot au moment d’enregistrer, il était tard.) Merci à Un Rieur pour sa recommandation, c’était très cool et ça m’a permis de lancer des trucs que j’aurais jamais lancé autrement, notamment ça m’a fait réécouter du Deluxe (et c’est vachement chouette Deluxe).</p>
+Enfin, cet épisode 3 qui aura mis plus de temps que prévu ! Cette fois-ci on commence par du reggae (et *sasuga* moi d'avoir remplacé quasi-systématiquement reggae par hip-hop, j'avais pas le mot au moment d'enregistrer, il était tard.) Merci à Un Rieur pour sa recommandation, c'était très cool et ça m'a permis de lancer des trucs que j'aurais jamais lancé autrement, notamment ça m'a fait réécouter du Deluxe (et c'est vachement chouette Deluxe).
 
-<p>Au programme, de l’orchestral (enfin !), des surprises pour tout le monde (moi y compris), et ma meilleure imitation d’une présentatrice de la radio. Ne me remerciez pas, c’est cadeau de la maison.</p>
+Au programme, de l'orchestral (enfin !), des surprises pour tout le monde (moi y compris), et ma meilleure imitation d'une présentatrice de la radio. Ne me remerciez pas, c'est cadeau de la maison.
 
-<p>Toujours aucun thème prévu pour la suite, donc je suis à la merci de vos suggestions, profitez-en !</p>
+Toujours aucun thème prévu pour la suite, donc je suis à la merci de vos suggestions, profitez-en !
 
-<h4 id="contact">Contact</h4>
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+#### Contact
 
-<h4 id="illustration">Illustration</h4>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail, à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<p>La pochette est un extrait d’une vidéo de Kekefllipnote, talentueux animateur dont vous retrouverez la chaine en <a href="https://www.youtube.com/user/kekeflipnote">cliquant ici</a>.</p>
+#### Illustration
 
-<h4 id="musiques">Musiques</h4>
+La pochette est un extrait d'une vidéo de Kekefllipnote, talentueux animateur dont vous retrouverez la chaine en [cliquant ici](https://www.youtube.com/user/kekeflipnote).
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVuVMCRWfOUyXNymsYBy8Q1">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
 
-<p><a href="https://www.youtube.com/watch?v=x0ZfwSQDLK0">Moi quand je retourne en France et que je retrouve une bonne baguette</a></p>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVuVMCRWfOUyXNymsYBy8Q1)
+  
+
+[Moi quand je retourne en France et que je retrouve une bonne baguette](https://www.youtube.com/watch?v=x0ZfwSQDLK0)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-3-curieusement-satisfaisant">Episode 3: Curieusement Satisfaisant</h3>
+### Episode 3: Curieusement Satisfaisant
 
-<p>Enfin, cet épisode 3 qui aura mis plus de temps que prévu ! Cette fois-ci on commence par du reggae (et <em>sasuga</em> moi d’avoir remplacé quasi-systématiquement reggae par hip-hop, j’avais pas le mot au moment d’enregistrer, il était tard.) Merci à Un Rieur pour sa recommandation, c’était très cool et ça m’a permis de lancer des trucs que j’aurais jamais lancé autrement, notamment ça m’a fait réécouter du Deluxe (et c’est vachement chouette Deluxe).</p>
+Enfin, cet épisode 3 qui aura mis plus de temps que prévu ! Cette fois-ci on commence par du reggae (et *sasuga* moi d'avoir remplacé quasi-systématiquement reggae par hip-hop, j'avais pas le mot au moment d'enregistrer, il était tard.) Merci à Un Rieur pour sa recommandation, c'était très cool et ça m'a permis de lancer des trucs que j'aurais jamais lancé autrement, notamment ça m'a fait réécouter du Deluxe (et c'est vachement chouette Deluxe).
 
-<p>Au programme, de l’orchestral (enfin !), des surprises pour tout le monde (moi y compris), et ma meilleure imitation d’une présentatrice de la radio. Ne me remerciez pas, c’est cadeau de la maison.</p>
+Au programme, de l'orchestral (enfin !), des surprises pour tout le monde (moi y compris), et ma meilleure imitation d'une présentatrice de la radio. Ne me remerciez pas, c'est cadeau de la maison.
 
-<p>Toujours aucun thème prévu pour la suite, donc je suis à la merci de vos suggestions, profitez-en !</p>
+Toujours aucun thème prévu pour la suite, donc je suis à la merci de vos suggestions, profitez-en !
 
-<h4 id="contact">Contact</h4>
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+#### Contact
 
-<h4 id="illustration">Illustration</h4>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail, à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<p>La pochette est un extrait d’une vidéo de Kekefllipnote, talentueux animateur dont vous retrouverez la chaine en <a href="https://www.youtube.com/user/kekeflipnote">cliquant ici</a>.</p>
+#### Illustration
 
-<h4 id="musiques">Musiques</h4>
+La pochette est un extrait d'une vidéo de Kekefllipnote, talentueux animateur dont vous retrouverez la chaine en [cliquant ici](https://www.youtube.com/user/kekeflipnote).
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVuVMCRWfOUyXNymsYBy8Q1">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
 
-<p><a href="https://www.youtube.com/watch?v=x0ZfwSQDLK0">Moi quand je retourne en France et que je retrouve une bonne baguette</a></p>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVuVMCRWfOUyXNymsYBy8Q1)
+  
+
+[Moi quand je retourne en France et que je retrouve une bonne baguette](https://www.youtube.com/watch?v=x0ZfwSQDLK0)
 ]]></content:encoded>
             
             <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode03.mp3" length="0" type="audio/mpeg" />
@@ -365,71 +349,67 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/01/08/episode02.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-2-tension-sensuelle">Episode 2: Tension Sensuelle</h3>
+### Episode 2: Tension Sensuelle
 
-<p>Deuxième épisode pour Recommandé, avec une première vidéo d’auditeur ! Merci à Zali Falcam pour sa recommandation (j’ai bien ri :D). Aucune vraie thématique, mais sa vidéo a curieusement bien orienté la suite (sacré coup du hasard) : je me suis retrouvé à parler assez régulièrement de “plaisirs solitaires nocturnes” et de grandes tensions sexuelles. Bref GG Well Played Zali.</p>
 
-<p>Aucune idée de ce que je ferai pour l’épisode 3 actuellement, donc vous pouvez me proposer tous vos titres, ça déclenchera peut-être une thématique, qui sait ! J’ai actuellement comme thèmes recommandés sur ma page principale de Youtube du rap, du Brassens, du Undertale et des chaînes scientifiques. Y’a de la place pour me faire écouter (et pourquoi pas faire passer un truc dans l’émission !) Vous pouvez m’envoyer vos propositions par tous les moyens ci-dessous.</p>
+Deuxième épisode pour Recommandé, avec une première vidéo d'auditeur ! Merci à Zali Falcam pour sa recommandation (j'ai bien ri :D). Aucune vraie thématique, mais sa vidéo a curieusement bien orienté la suite (sacré coup du hasard) : je me suis retrouvé à parler assez régulièrement de "plaisirs solitaires nocturnes" et de grandes tensions sexuelles. Bref GG Well Played Zali.
 
-<h4 id="contact">Contact</h4>
+Aucune idée de ce que je ferai pour l'épisode 3 actuellement, donc vous pouvez me proposer tous vos titres, ça déclenchera peut-être une thématique, qui sait ! J'ai actuellement comme thèmes recommandés sur ma page principale de Youtube du rap, du Brassens, du Undertale et des chaînes scientifiques. Y'a de la place pour me faire écouter (et pourquoi pas faire passer un truc dans l'émission !) Vous pouvez m'envoyer vos propositions par tous les moyens ci-dessous.
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
 
-<h4 id="artistes-et-liens">Artistes et liens</h4>
+#### Contact
 
-<ul>
-  <li>Niel Cicierega : <a href="https://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw">sa chaîne Youtube</a></li>
-  <li>Tsuko G. : <a href="https://www.youtube.com/channel/UCeONfStw8OrYUwD5Fd9gX7Q">sa chaîne Youtube</a>, <a href="https://itunes.apple.com/us/album/tsukos-covers-vol-i/id1209774527">ses musiques sur iTunes</a>, <a href="https://open.spotify.com/album/2CZRYDkA8Q1pJh8xx8Om7K?play=true&amp;utm_source=open.spotify.com&amp;utm_medium=open">et sur Spotify</a>. Il est aussi sur Amazon, Google Play, etc. tous les liens sont dans ses vidéos !</li>
-  <li>Ken Ashcorp : <a href="https://www.youtube.com/user/kenashcorp">sa chaîne Youtube</a>, <a href="https://itunes.apple.com/us/album/absolute-territory-single/id617199533">ses singles sur iTunes</a>, <a href="https://kenashcorp.bandcamp.com/">et son Bandcamp</a></li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
+#### Artistes et liens
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVqHgDGerAqk3rglXAcf2bV">La playlist Youtube de l’épisode</a></li>
-</ul>
+- Niel Cicierega : [sa chaîne Youtube](https://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw)
+- Tsuko G. : [sa chaîne Youtube](https://www.youtube.com/channel/UCeONfStw8OrYUwD5Fd9gX7Q), [ses musiques sur iTunes](https://itunes.apple.com/us/album/tsukos-covers-vol-i/id1209774527), [et sur Spotify](https://open.spotify.com/album/2CZRYDkA8Q1pJh8xx8Om7K?play=true&utm_source=open.spotify.com&utm_medium=open). Il est aussi sur Amazon, Google Play, etc. tous les liens sont dans ses vidéos !
+- Ken Ashcorp : [sa chaîne Youtube](https://www.youtube.com/user/kenashcorp), [ses singles sur iTunes](https://itunes.apple.com/us/album/absolute-territory-single/id617199533), [et son Bandcamp](https://kenashcorp.bandcamp.com/)
 
-<p><a href="https://www.youtube.com/watch?v=axn2tpbzBhE">Une idée amusante avec MikuMikuDance</a></p>
+
+#### Musiques
+
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVqHgDGerAqk3rglXAcf2bV)
+  
+
+[Une idée amusante avec MikuMikuDance](https://www.youtube.com/watch?v=axn2tpbzBhE)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-2-tension-sensuelle">Episode 2: Tension Sensuelle</h3>
+### Episode 2: Tension Sensuelle
 
-<p>Deuxième épisode pour Recommandé, avec une première vidéo d’auditeur ! Merci à Zali Falcam pour sa recommandation (j’ai bien ri :D). Aucune vraie thématique, mais sa vidéo a curieusement bien orienté la suite (sacré coup du hasard) : je me suis retrouvé à parler assez régulièrement de “plaisirs solitaires nocturnes” et de grandes tensions sexuelles. Bref GG Well Played Zali.</p>
 
-<p>Aucune idée de ce que je ferai pour l’épisode 3 actuellement, donc vous pouvez me proposer tous vos titres, ça déclenchera peut-être une thématique, qui sait ! J’ai actuellement comme thèmes recommandés sur ma page principale de Youtube du rap, du Brassens, du Undertale et des chaînes scientifiques. Y’a de la place pour me faire écouter (et pourquoi pas faire passer un truc dans l’émission !) Vous pouvez m’envoyer vos propositions par tous les moyens ci-dessous.</p>
+Deuxième épisode pour Recommandé, avec une première vidéo d'auditeur ! Merci à Zali Falcam pour sa recommandation (j'ai bien ri :D). Aucune vraie thématique, mais sa vidéo a curieusement bien orienté la suite (sacré coup du hasard) : je me suis retrouvé à parler assez régulièrement de "plaisirs solitaires nocturnes" et de grandes tensions sexuelles. Bref GG Well Played Zali.
 
-<h4 id="contact">Contact</h4>
+Aucune idée de ce que je ferai pour l'épisode 3 actuellement, donc vous pouvez me proposer tous vos titres, ça déclenchera peut-être une thématique, qui sait ! J'ai actuellement comme thèmes recommandés sur ma page principale de Youtube du rap, du Brassens, du Undertale et des chaînes scientifiques. Y'a de la place pour me faire écouter (et pourquoi pas faire passer un truc dans l'émission !) Vous pouvez m'envoyer vos propositions par tous les moyens ci-dessous.
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
 
-<h4 id="artistes-et-liens">Artistes et liens</h4>
+#### Contact
 
-<ul>
-  <li>Niel Cicierega : <a href="https://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw">sa chaîne Youtube</a></li>
-  <li>Tsuko G. : <a href="https://www.youtube.com/channel/UCeONfStw8OrYUwD5Fd9gX7Q">sa chaîne Youtube</a>, <a href="https://itunes.apple.com/us/album/tsukos-covers-vol-i/id1209774527">ses musiques sur iTunes</a>, <a href="https://open.spotify.com/album/2CZRYDkA8Q1pJh8xx8Om7K?play=true&amp;utm_source=open.spotify.com&amp;utm_medium=open">et sur Spotify</a>. Il est aussi sur Amazon, Google Play, etc. tous les liens sont dans ses vidéos !</li>
-  <li>Ken Ashcorp : <a href="https://www.youtube.com/user/kenashcorp">sa chaîne Youtube</a>, <a href="https://itunes.apple.com/us/album/absolute-territory-single/id617199533">ses singles sur iTunes</a>, <a href="https://kenashcorp.bandcamp.com/">et son Bandcamp</a></li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
+#### Artistes et liens
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVqHgDGerAqk3rglXAcf2bV">La playlist Youtube de l’épisode</a></li>
-</ul>
+- Niel Cicierega : [sa chaîne Youtube](https://www.youtube.com/channel/UCDrJor35jYVnuC3JgRzheIw)
+- Tsuko G. : [sa chaîne Youtube](https://www.youtube.com/channel/UCeONfStw8OrYUwD5Fd9gX7Q), [ses musiques sur iTunes](https://itunes.apple.com/us/album/tsukos-covers-vol-i/id1209774527), [et sur Spotify](https://open.spotify.com/album/2CZRYDkA8Q1pJh8xx8Om7K?play=true&utm_source=open.spotify.com&utm_medium=open). Il est aussi sur Amazon, Google Play, etc. tous les liens sont dans ses vidéos !
+- Ken Ashcorp : [sa chaîne Youtube](https://www.youtube.com/user/kenashcorp), [ses singles sur iTunes](https://itunes.apple.com/us/album/absolute-territory-single/id617199533), [et son Bandcamp](https://kenashcorp.bandcamp.com/)
 
-<p><a href="https://www.youtube.com/watch?v=axn2tpbzBhE">Une idée amusante avec MikuMikuDance</a></p>
+
+#### Musiques
+
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVqHgDGerAqk3rglXAcf2bV)
+  
+
+[Une idée amusante avec MikuMikuDance](https://www.youtube.com/watch?v=axn2tpbzBhE)
 ]]></content:encoded>
             
             <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode02.mp3" length="0" type="audio/mpeg" />
@@ -465,85 +445,83 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2018/12/15/touhoucast.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-1-東方キャスト-touhoucast">Episode 1: 東方キャスト (Touhoucast)</h3>
+### Episode 1: 東方キャスト (Touhoucast)
 
-<p>Est-ce que j’ai lancé le concept de <em>Recommandé</em> uniquement pour parler de Touhou ? C’est bien possible.</p>
+Est-ce que j'ai lancé le concept de *Recommandé* uniquement pour parler de Touhou ? C'est bien possible.
 
-<p>Premier épisode de Recommandé, dédié aux musiques d’une des franchises de jeu indépendant les plus prolifiques qui nous vient de l’Orient ! Un thème, beaucoup de diversité, et des musiques qui défoncent. Il y avait tellement de choix que je n’ai même pas dérivé avant la toute fin ! Profitez, parce que ça ne va pas arriver très souvent.</p>
+Premier épisode de Recommandé, dédié aux musiques d'une des franchises de jeu indépendant les plus prolifiques qui nous vient de l'Orient ! Un thème, beaucoup de diversité, et des musiques qui défoncent. Il y avait tellement de choix que je n'ai même pas dérivé avant la toute fin ! Profitez, parce que ça ne va pas arriver très souvent.
 
-<p>L’épisode 2 sera normalement non-thématique. C’est le moment de m’envoyer toutes vos suggestions pour faire dévier la playlist dans votre genre préféré ou faire écouter votre artiste chouchou à tout le monde ! Donc n’hésitez plus, envoyez-moi des musiques à écouter !</p>
+L'épisode 2 sera normalement non-thématique. C'est le moment de m'envoyer toutes vos suggestions pour faire dévier la playlist dans votre genre préféré ou faire écouter votre artiste chouchou à tout le monde ! Donc n'hésitez plus, envoyez-moi des musiques à écouter ! 
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="artistes-et-liens">Artistes et liens</h4>
+#### Artistes et liens
 
-<ul>
-  <li>Demetori : <a href="https://en.touhouwiki.net/wiki/Demetori">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://demetori.xii.jp/">site officiel</a><sup>[JP]</sup></li>
-  <li>Raven’s Jig: <a href="http://www.ravensjig.com/">site officiel</a><sup>[EN]</sup>, <a href="https://www.youtube.com/user/redtails/videos">chaîne de redtails</a>, <a href="http://akhtscartoon.canalblog.com/">site de AKHTS pour la BD</a><sup>[FR]</sup> - les titres sont téléchargeables sur leur OneDrive, le lien est dans leurs vidéos, ou sur le site officiel.</li>
-  <li>Crest : <a href="https://en.touhouwiki.net/wiki/Crest">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://crest-music.net/">site officiel</a><sup>[JP]</sup>, <a href="https://tbkitsune.bandcamp.com/releases">Bandcamp de la chanteuse TBK</a><sup>[EN]</sup></li>
-  <li>Youkai Paradise / Ravel Nightstar Enterprises : <a href="https://youkaiparadise.bandcamp.com/">le Bandcamp de Youkai Paradise</a><sup>[EN]</sup>, <a href="https://ravelnightstar.bandcamp.com/releases">le Bandacamp de Ravel Nightstar Entreprises</a><sup>[EN]</sup></li>
-  <li>Akatsuki Records : <a href="https://en.touhouwiki.net/wiki/%E6%9A%81Records">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://akatsuki-records.com/index.html">site officiel</a><sup>[EN]</sup></li>
-  <li>Machikado-Mapoze : <a href="https://en.touhouwiki.net/wiki/%E8%A1%97%E8%A7%92%E9%BA%BB%E5%A9%86%E8%B1%86">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://mapoze.com/">site officiel</a><sup>[JP]</sup></li>
-  <li>ONSEN PROJECT : <a href="https://en.touhouwiki.net/wiki/ONSEN_PROJECT">page TouhouWiki</a><sup>[EN]</sup>, vous retrouverez les Twitter des membres sur cette page.</li>
-  <li>Active NEETs : <a href="https://www.youtube.com/user/MintAkairyusei">leur chaîne YouTube</a></li>
-</ul>
+- Demetori : [page TouhouWiki](https://en.touhouwiki.net/wiki/Demetori)<sup>[EN]</sup>, [site officiel](http://demetori.xii.jp/)<sup>[JP]</sup>
+- Raven's Jig: [site officiel](http://www.ravensjig.com/)<sup>[EN]</sup>, [chaîne de redtails](https://www.youtube.com/user/redtails/videos), [site de AKHTS pour la BD](http://akhtscartoon.canalblog.com/)<sup>[FR]</sup> - les titres sont téléchargeables sur leur OneDrive, le lien est dans leurs vidéos, ou sur le site officiel.
+- Crest : [page TouhouWiki](https://en.touhouwiki.net/wiki/Crest)<sup>[EN]</sup>, [site officiel](http://crest-music.net/)<sup>[JP]</sup>, [Bandcamp de la chanteuse TBK](https://tbkitsune.bandcamp.com/releases)<sup>[EN]</sup>
+- Youkai Paradise / Ravel Nightstar Enterprises : [le Bandcamp de Youkai Paradise](https://youkaiparadise.bandcamp.com/)<sup>[EN]</sup>, [le Bandacamp de Ravel Nightstar Entreprises](https://ravelnightstar.bandcamp.com/releases)<sup>[EN]</sup>
+- Akatsuki Records : [page TouhouWiki](https://en.touhouwiki.net/wiki/%E6%9A%81Records)<sup>[EN]</sup>, [site officiel](http://akatsuki-records.com/index.html)<sup>[EN]</sup>
+- Machikado-Mapoze : [page TouhouWiki](https://en.touhouwiki.net/wiki/%E8%A1%97%E8%A7%92%E9%BA%BB%E5%A9%86%E8%B1%86)<sup>[EN]</sup>, [site officiel](http://mapoze.com/)<sup>[JP]</sup>
+- ONSEN PROJECT : [page TouhouWiki](https://en.touhouwiki.net/wiki/ONSEN_PROJECT)<sup>[EN]</sup>, vous retrouverez les Twitter des membres sur cette page.
+- Active NEETs : [leur chaîne YouTube](https://www.youtube.com/user/MintAkairyusei)
 
-<h4 id="musiques">Musiques</h4>
+#### Musiques
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVZCUwp7JH9Mc9e739cPS4p">La playlist Youtube de l’épisode</a></li>
-</ul>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVZCUwp7JH9Mc9e739cPS4p)
+  
 
-<p><a href="https://www.youtube.com/watch?v=axn2tpbzBhE">Une bonne utilisation de MikuMikuDance</a></p>
+
+
+
+
+[Une bonne utilisation de MikuMikuDance](https://www.youtube.com/watch?v=axn2tpbzBhE)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-1-東方キャスト-touhoucast">Episode 1: 東方キャスト (Touhoucast)</h3>
+### Episode 1: 東方キャスト (Touhoucast)
 
-<p>Est-ce que j’ai lancé le concept de <em>Recommandé</em> uniquement pour parler de Touhou ? C’est bien possible.</p>
+Est-ce que j'ai lancé le concept de *Recommandé* uniquement pour parler de Touhou ? C'est bien possible.
 
-<p>Premier épisode de Recommandé, dédié aux musiques d’une des franchises de jeu indépendant les plus prolifiques qui nous vient de l’Orient ! Un thème, beaucoup de diversité, et des musiques qui défoncent. Il y avait tellement de choix que je n’ai même pas dérivé avant la toute fin ! Profitez, parce que ça ne va pas arriver très souvent.</p>
+Premier épisode de Recommandé, dédié aux musiques d'une des franchises de jeu indépendant les plus prolifiques qui nous vient de l'Orient ! Un thème, beaucoup de diversité, et des musiques qui défoncent. Il y avait tellement de choix que je n'ai même pas dérivé avant la toute fin ! Profitez, parce que ça ne va pas arriver très souvent.
 
-<p>L’épisode 2 sera normalement non-thématique. C’est le moment de m’envoyer toutes vos suggestions pour faire dévier la playlist dans votre genre préféré ou faire écouter votre artiste chouchou à tout le monde ! Donc n’hésitez plus, envoyez-moi des musiques à écouter !</p>
+L'épisode 2 sera normalement non-thématique. C'est le moment de m'envoyer toutes vos suggestions pour faire dévier la playlist dans votre genre préféré ou faire écouter votre artiste chouchou à tout le monde ! Donc n'hésitez plus, envoyez-moi des musiques à écouter ! 
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le [Discord du Calvinball Consortium](https://discord.gg/4RnA9v7), retrouvez toutes les productions sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="artistes-et-liens">Artistes et liens</h4>
+#### Artistes et liens
 
-<ul>
-  <li>Demetori : <a href="https://en.touhouwiki.net/wiki/Demetori">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://demetori.xii.jp/">site officiel</a><sup>[JP]</sup></li>
-  <li>Raven’s Jig: <a href="http://www.ravensjig.com/">site officiel</a><sup>[EN]</sup>, <a href="https://www.youtube.com/user/redtails/videos">chaîne de redtails</a>, <a href="http://akhtscartoon.canalblog.com/">site de AKHTS pour la BD</a><sup>[FR]</sup> - les titres sont téléchargeables sur leur OneDrive, le lien est dans leurs vidéos, ou sur le site officiel.</li>
-  <li>Crest : <a href="https://en.touhouwiki.net/wiki/Crest">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://crest-music.net/">site officiel</a><sup>[JP]</sup>, <a href="https://tbkitsune.bandcamp.com/releases">Bandcamp de la chanteuse TBK</a><sup>[EN]</sup></li>
-  <li>Youkai Paradise / Ravel Nightstar Enterprises : <a href="https://youkaiparadise.bandcamp.com/">le Bandcamp de Youkai Paradise</a><sup>[EN]</sup>, <a href="https://ravelnightstar.bandcamp.com/releases">le Bandacamp de Ravel Nightstar Entreprises</a><sup>[EN]</sup></li>
-  <li>Akatsuki Records : <a href="https://en.touhouwiki.net/wiki/%E6%9A%81Records">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://akatsuki-records.com/index.html">site officiel</a><sup>[EN]</sup></li>
-  <li>Machikado-Mapoze : <a href="https://en.touhouwiki.net/wiki/%E8%A1%97%E8%A7%92%E9%BA%BB%E5%A9%86%E8%B1%86">page TouhouWiki</a><sup>[EN]</sup>, <a href="http://mapoze.com/">site officiel</a><sup>[JP]</sup></li>
-  <li>ONSEN PROJECT : <a href="https://en.touhouwiki.net/wiki/ONSEN_PROJECT">page TouhouWiki</a><sup>[EN]</sup>, vous retrouverez les Twitter des membres sur cette page.</li>
-  <li>Active NEETs : <a href="https://www.youtube.com/user/MintAkairyusei">leur chaîne YouTube</a></li>
-</ul>
+- Demetori : [page TouhouWiki](https://en.touhouwiki.net/wiki/Demetori)<sup>[EN]</sup>, [site officiel](http://demetori.xii.jp/)<sup>[JP]</sup>
+- Raven's Jig: [site officiel](http://www.ravensjig.com/)<sup>[EN]</sup>, [chaîne de redtails](https://www.youtube.com/user/redtails/videos), [site de AKHTS pour la BD](http://akhtscartoon.canalblog.com/)<sup>[FR]</sup> - les titres sont téléchargeables sur leur OneDrive, le lien est dans leurs vidéos, ou sur le site officiel.
+- Crest : [page TouhouWiki](https://en.touhouwiki.net/wiki/Crest)<sup>[EN]</sup>, [site officiel](http://crest-music.net/)<sup>[JP]</sup>, [Bandcamp de la chanteuse TBK](https://tbkitsune.bandcamp.com/releases)<sup>[EN]</sup>
+- Youkai Paradise / Ravel Nightstar Enterprises : [le Bandcamp de Youkai Paradise](https://youkaiparadise.bandcamp.com/)<sup>[EN]</sup>, [le Bandacamp de Ravel Nightstar Entreprises](https://ravelnightstar.bandcamp.com/releases)<sup>[EN]</sup>
+- Akatsuki Records : [page TouhouWiki](https://en.touhouwiki.net/wiki/%E6%9A%81Records)<sup>[EN]</sup>, [site officiel](http://akatsuki-records.com/index.html)<sup>[EN]</sup>
+- Machikado-Mapoze : [page TouhouWiki](https://en.touhouwiki.net/wiki/%E8%A1%97%E8%A7%92%E9%BA%BB%E5%A9%86%E8%B1%86)<sup>[EN]</sup>, [site officiel](http://mapoze.com/)<sup>[JP]</sup>
+- ONSEN PROJECT : [page TouhouWiki](https://en.touhouwiki.net/wiki/ONSEN_PROJECT)<sup>[EN]</sup>, vous retrouverez les Twitter des membres sur cette page.
+- Active NEETs : [leur chaîne YouTube](https://www.youtube.com/user/MintAkairyusei)
 
-<h4 id="musiques">Musiques</h4>
+#### Musiques
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVZCUwp7JH9Mc9e739cPS4p">La playlist Youtube de l’épisode</a></li>
-</ul>
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVZCUwp7JH9Mc9e739cPS4p)
+  
 
-<p><a href="https://www.youtube.com/watch?v=axn2tpbzBhE">Une bonne utilisation de MikuMikuDance</a></p>
+
+
+
+
+[Une bonne utilisation de MikuMikuDance](https://www.youtube.com/watch?v=axn2tpbzBhE)
 ]]></content:encoded>
             
             <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode01.mp3" length="0" type="audio/mpeg" />
@@ -579,59 +557,53 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2018/11/28/episode0B.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-0b-le-petit-fils-et-le-grand-père">Episode 0B: Le petit-fils et le grand-père</h3>
+### Episode 0B: Le petit-fils et le grand-père
 
-<p>Je cherchais un titre pour l’épisode, j’ai donc tapé le nom du premier titre passé sur Google Images qui m’a ressorti ça. Et comme par hasard, ça collait bien avec un autre moment de l’épisode. Internet, tu m’étonneras toujours. (C’est aussi pour ça que je fais ce podcast.)</p>
+Je cherchais un titre pour l'épisode, j'ai donc tapé le nom du premier titre passé sur Google Images qui m'a ressorti ça. Et comme par hasard, ça collait bien avec un autre moment de l'épisode. Internet, tu m'étonneras toujours. (C'est aussi pour ça que je fais ce podcast.) 
 
-<p>Deuxième pilote de Recommandé, donc, après trois semaines d’attente ! Moi c’est Yattoz, et on est partis pour une heure de rock en sautant de vidéo recommandée en vidéo recommandée grâce à Youtube. Enfin, du rock, au moins au début, parce que ça finit toujours par dériver, quoi qu’on fasse. Ca m’a au moins permis de découvrir quelques trucs, et j’espère que ça sera le cas pour vous aussi. Notez que même pour les épisodes thématiques, je continue de m’appuyer sur les vidéos recommandées même si on dérive (c’est bien le but !), donc le thème, il peut parfois aller se faire <em>fiche</em>.</p>
+Deuxième pilote de Recommandé, donc, après trois semaines d'attente ! Moi c'est Yattoz, et on est partis pour une heure de rock en sautant de vidéo recommandée en vidéo recommandée grâce à Youtube. Enfin, du rock, au moins au début, parce que ça finit toujours par dériver, quoi qu'on fasse. Ca m'a au moins permis de découvrir quelques trucs, et j'espère que ça sera le cas pour vous aussi. Notez que même pour les épisodes thématiques, je continue de m'appuyer sur les vidéos recommandées même si on dérive (c'est bien le but !), donc le thème, il peut parfois aller se faire *fiche*.
 
-<p>Pour l’épisode canonique n°1, j’ai déjà annoncé le thème à demi-mot, mais je suis resté volontairement un peu vague pour vous permettre d’être créatif dans vos propositions ! Tout peut dégénérer tant qu’on y met un peu d’énergie. (Mais si vous n’avez pas deviné, vous allez découvrir une très chouette niche de musique, du coup.)</p>
+Pour l'épisode canonique n°1, j'ai déjà annoncé le thème à demi-mot, mais je suis resté volontairement un peu vague pour vous permettre d'être créatif dans vos propositions ! Tout peut dégénérer tant qu'on y met un peu d'énergie. (Mais si vous n'avez pas deviné, vous allez découvrir une très chouette niche de musique, du coup.)
 
-<p>J’attends vos propositions de musique pour la suite. Ne soyez pas timide !</p>
+J'attends vos propositions de musique pour la suite. Ne soyez pas timide ! 
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le Discord du Calvinball Consortium, retrouvez le lien sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le Discord du Calvinball Consortium, retrouvez le lien sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVg2lbOMpuTkLop7em3C4-T">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
+
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVg2lbOMpuTkLop7em3C4-T)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-0b-le-petit-fils-et-le-grand-père">Episode 0B: Le petit-fils et le grand-père</h3>
+### Episode 0B: Le petit-fils et le grand-père
 
-<p>Je cherchais un titre pour l’épisode, j’ai donc tapé le nom du premier titre passé sur Google Images qui m’a ressorti ça. Et comme par hasard, ça collait bien avec un autre moment de l’épisode. Internet, tu m’étonneras toujours. (C’est aussi pour ça que je fais ce podcast.)</p>
+Je cherchais un titre pour l'épisode, j'ai donc tapé le nom du premier titre passé sur Google Images qui m'a ressorti ça. Et comme par hasard, ça collait bien avec un autre moment de l'épisode. Internet, tu m'étonneras toujours. (C'est aussi pour ça que je fais ce podcast.) 
 
-<p>Deuxième pilote de Recommandé, donc, après trois semaines d’attente ! Moi c’est Yattoz, et on est partis pour une heure de rock en sautant de vidéo recommandée en vidéo recommandée grâce à Youtube. Enfin, du rock, au moins au début, parce que ça finit toujours par dériver, quoi qu’on fasse. Ca m’a au moins permis de découvrir quelques trucs, et j’espère que ça sera le cas pour vous aussi. Notez que même pour les épisodes thématiques, je continue de m’appuyer sur les vidéos recommandées même si on dérive (c’est bien le but !), donc le thème, il peut parfois aller se faire <em>fiche</em>.</p>
+Deuxième pilote de Recommandé, donc, après trois semaines d'attente ! Moi c'est Yattoz, et on est partis pour une heure de rock en sautant de vidéo recommandée en vidéo recommandée grâce à Youtube. Enfin, du rock, au moins au début, parce que ça finit toujours par dériver, quoi qu'on fasse. Ca m'a au moins permis de découvrir quelques trucs, et j'espère que ça sera le cas pour vous aussi. Notez que même pour les épisodes thématiques, je continue de m'appuyer sur les vidéos recommandées même si on dérive (c'est bien le but !), donc le thème, il peut parfois aller se faire *fiche*.
 
-<p>Pour l’épisode canonique n°1, j’ai déjà annoncé le thème à demi-mot, mais je suis resté volontairement un peu vague pour vous permettre d’être créatif dans vos propositions ! Tout peut dégénérer tant qu’on y met un peu d’énergie. (Mais si vous n’avez pas deviné, vous allez découvrir une très chouette niche de musique, du coup.)</p>
+Pour l'épisode canonique n°1, j'ai déjà annoncé le thème à demi-mot, mais je suis resté volontairement un peu vague pour vous permettre d'être créatif dans vos propositions ! Tout peut dégénérer tant qu'on y met un peu d'énergie. (Mais si vous n'avez pas deviné, vous allez découvrir une très chouette niche de musique, du coup.)
 
-<p>J’attends vos propositions de musique pour la suite. Ne soyez pas timide !</p>
+J'attends vos propositions de musique pour la suite. Ne soyez pas timide ! 
 
-<h4 id="contact">Contact</h4>
+#### Contact
 
-<ul>
-  <li>Retrouvez-moi sur Twitter <a href="https://twitter.com/yattoz">@yattoz</a>,</li>
-  <li>Rejoignez le Discord du Calvinball Consortium, retrouvez le lien sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
-  <li>Plus simplement par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
-  <li>Et bien sûr, dans les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>.</li>
-</ul>
+- Retrouvez-moi sur Twitter [@yattoz](https://twitter.com/yattoz),
+- Rejoignez le Discord du Calvinball Consortium, retrouvez le lien sur [la page officielle du Consortium](https://calvinballradio.wordpress.com/). Le Discord est un endroit chatoyant où il fait bon vivre.
+- Plus simplement par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com),
+- Et bien sûr, dans les commentaires de l'épisode [sur le site](https://recommande.duckdns.org).
 
-<h4 id="musiques">Musiques</h4>
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAVg2lbOMpuTkLop7em3C4-T">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
+
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVg2lbOMpuTkLop7em3C4-T)
 ]]></content:encoded>
             
             <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0B.mp3" length="0" type="audio/mpeg" />
@@ -667,47 +639,41 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2018/11/10/episode0A.html</guid>
-            <description><![CDATA[
+            <description><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-0a-anisong-catharsis-vol1">Episode 0A: Anisong Catharsis vol.1</h3>
+### Episode 0A: Anisong Catharsis vol.1
 
-<p>Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s’est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.</p>
+Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d'embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d'entrainement pour l'algorithme, on saute à pieds joints dans tout ce qu'on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s'est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j'arrive à dompter l'algorithme des vidéos recommandées... et j'espère que j'y arriverai également avec vos propositions que j'attends avec impatience. 
 
-<h4 id="pour-me-contacter-ou-menvoyer-des-musiques-">Pour me contacter ou m’envoyer des musiques :</h4>
 
-<ul>
-  <li>Les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>,</li>
-  <li><a href="https:/twitter.com/yattoz">@yattoz sur Twitter</a>,</li>
-  <li>Par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a></li>
-  <li>Par message sur Discord, retrouvez le lien sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Calvinball Consortium</a></li>
-</ul>
+#### Pour me contacter ou m'envoyer des musiques :
 
-<h4 id="musiques">Musiques</h4>
+  - Les commentaires de l'épisode [sur le site](https://recommande.duckdns.org),
+  - [@yattoz sur Twitter](https:/twitter.com/yattoz),
+  - Par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com)
+  - Par message sur Discord, retrouvez le lien sur [la page officielle du Calvinball Consortium](https://calvinballradio.wordpress.com/)
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
+
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql)
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[{% podigee_player page %}
 
-<h3 id="episode-0a-anisong-catharsis-vol1">Episode 0A: Anisong Catharsis vol.1</h3>
+### Episode 0A: Anisong Catharsis vol.1
 
-<p>Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d’embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d’entrainement pour l’algorithme, on saute à pieds joints dans tout ce qu’on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s’est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j’arrive à dompter l’algorithme des vidéos recommandées… et j’espère que j’y arriverai également avec vos propositions que j’attends avec impatience.</p>
+Voici le premier épisode pilote de Recommandé ! Je suis Yattoz, votre chef de bord, et je vous proposer d'embarquer avec moi dans les méandres de mes musiques recommandées sur Youtube. Pour ce pilote, pas d'entrainement pour l'algorithme, on saute à pieds joints dans tout ce qu'on me propose, tant que ça reste sympa ou curieux à écouter. Ce premier essai qui s'est vite transformé en pot-pourri pourra être suivi par des épisodes mieux cadrés, si tant est que j'arrive à dompter l'algorithme des vidéos recommandées... et j'espère que j'y arriverai également avec vos propositions que j'attends avec impatience. 
 
-<h4 id="pour-me-contacter-ou-menvoyer-des-musiques-">Pour me contacter ou m’envoyer des musiques :</h4>
 
-<ul>
-  <li>Les commentaires de l’épisode <a href="https://recommande.duckdns.org">sur le site</a>,</li>
-  <li><a href="https:/twitter.com/yattoz">@yattoz sur Twitter</a>,</li>
-  <li>Par e-mail à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a></li>
-  <li>Par message sur Discord, retrouvez le lien sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Calvinball Consortium</a></li>
-</ul>
+#### Pour me contacter ou m'envoyer des musiques :
 
-<h4 id="musiques">Musiques</h4>
+  - Les commentaires de l'épisode [sur le site](https://recommande.duckdns.org),
+  - [@yattoz sur Twitter](https:/twitter.com/yattoz),
+  - Par e-mail à [recommande@hotmail.com](mailto:recommande@hotmail.com)
+  - Par message sur Discord, retrouvez le lien sur [la page officielle du Calvinball Consortium](https://calvinballradio.wordpress.com/)
 
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql">La playlist Youtube de l’épisode</a></li>
-</ul>
+#### Musiques
+
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAX0hpR9mLg1MtttGIAMBfql)
 ]]></content:encoded>
             
             <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3" length="0" type="audio/mpeg" />

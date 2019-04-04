@@ -1,7 +1,7 @@
 ---
 title: A propos
 layout: default
-navigation: 2
+navigation: 3
 ---
 
 # Qui suis-je et qu'est-ce que je fais ?

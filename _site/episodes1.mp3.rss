@@ -19,7 +19,7 @@
     
     <description>En partant d’une musique choisie de préférence parmi les propositions d’auditeurs, on saute de musique recommandée en musique recommandée. Cohérence facultative.
 </description>
-    <lastBuildDate>Sat, 27 Apr 2019 11:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 00:33:29 +0200</lastBuildDate>
     <language>fr</language>
     <generator>Jekyll-Octopod 0.9.9</generator>
 
@@ -50,11 +50,115 @@
         
         
           <item>
+            <title>Recommandé n°8 - Dans l'Espace</title>
+            <link>https://recommande.duckdns.org/2019/05/24/episode08.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode08"/>
+            <comments>https://recommande.duckdns.org/2019/05/24/episode08.html#disqus_thread</comments>
+            <pubDate>Fri, 24 May 2019 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://recommande.duckdns.org/2019/05/24/episode08.html</guid>
+            <description><![CDATA[
+
+<h3 id="episode-8--dans-lespace">Episode 8 : Dans l’Espace</h3>
+
+<p>De l’alcool, des jeux, de l’Espace, voilà la recette pour ce Recommandé n°8. Embarquez pour le voyage !</p>
+
+<h4 id="contact">Contact</h4>
+
+<ul>
+  <li>Sur Twitter, le compte officiel de l’émission <a href="https://twitter.com/recommande0">@recommande0</a>, et mon compte perso <a href="https://twitter.com/yattoz">@yattoz</a></li>
+  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
+  <li>Par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
+  <li>Et bien sûr, tous les épisodes sont <a href="https://recommande.duckdns.org">sur le site</a>.</li>
+</ul>
+
+<h4 id="musiques">Musiques</h4>
+
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX9b0fzxew5CIGPH166lekq">La playlist Youtube de l’épisode</a></li>
+</ul>
+
+<h4 id="artistes-et-créateurs">Artistes et créateurs</h4>
+
+<ul>
+  <li><a href="https://triple-q.bandcamp.com/album/dismantled-trigr">dimantled trigr, le dernier album de Triple-Q sur Bandcamp</a>, et sa <a href="https://www.youtube.com/user/TripleKyun/videos">chaîne Youtube</a></li>
+</ul>
+
+<p>(Je garde cette section pour les créateurs indépendants de Youtube ; les grands noms, vous retrouverez leur musique sur leur chaîne en passant par leurs vidéos dans la playlist de l’émission ci-dessus.)</p>
+
+<h4 id="illustration">Illustration</h4>
+
+<p>L’illustration montre Chris Hadfield en train de jouer Space Oddity à bord de la Station Spatiale Internationale.</p>
+
+<p><a href="https://www.youtube.com/watch?v=EmneLbvX4AU">La machine à laver dansante</a></p>
+]]></description>
+            <content:encoded><![CDATA[
+
+<h3 id="episode-8--dans-lespace">Episode 8 : Dans l’Espace</h3>
+
+<p>De l’alcool, des jeux, de l’Espace, voilà la recette pour ce Recommandé n°8. Embarquez pour le voyage !</p>
+
+<h4 id="contact">Contact</h4>
+
+<ul>
+  <li>Sur Twitter, le compte officiel de l’émission <a href="https://twitter.com/recommande0">@recommande0</a>, et mon compte perso <a href="https://twitter.com/yattoz">@yattoz</a></li>
+  <li>Rejoignez le <a href="https://discord.gg/4RnA9v7">Discord du Calvinball Consortium</a>, retrouvez toutes les productions sur <a href="https://calvinballradio.wordpress.com/">la page officielle du Consortium</a>. Le Discord est un endroit chatoyant où il fait bon vivre.</li>
+  <li>Par e-mail, à <a href="mailto:recommande@hotmail.com">recommande@hotmail.com</a>,</li>
+  <li>Et bien sûr, tous les épisodes sont <a href="https://recommande.duckdns.org">sur le site</a>.</li>
+</ul>
+
+<h4 id="musiques">Musiques</h4>
+
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLIgk8mzU2JAX9b0fzxew5CIGPH166lekq">La playlist Youtube de l’épisode</a></li>
+</ul>
+
+<h4 id="artistes-et-créateurs">Artistes et créateurs</h4>
+
+<ul>
+  <li><a href="https://triple-q.bandcamp.com/album/dismantled-trigr">dimantled trigr, le dernier album de Triple-Q sur Bandcamp</a>, et sa <a href="https://www.youtube.com/user/TripleKyun/videos">chaîne Youtube</a></li>
+</ul>
+
+<p>(Je garde cette section pour les créateurs indépendants de Youtube ; les grands noms, vous retrouverez leur musique sur leur chaîne en passant par leurs vidéos dans la playlist de l’émission ci-dessus.)</p>
+
+<h4 id="illustration">Illustration</h4>
+
+<p>L’illustration montre Chris Hadfield en train de jouer Space Oddity à bord de la Station Spatiale Internationale.</p>
+
+<p><a href="https://www.youtube.com/watch?v=EmneLbvX4AU">La machine à laver dansante</a></p>
+]]></content:encoded>
+            
+            <enclosure url="https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode08.mp3" length="0" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Dans l'Espace</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Yattoz</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>1:08:49</itunes:duration>
+            
+            
+            
+            
+              <itunes:image href="https://recommande.duckdns.org/img/08.jpg" />
+              <image>
+                <title></title>
+                <url>https://recommande.duckdns.org/img/08.jpg</url>
+                <link>https://recommande.duckdns.org</link>
+              </image>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
             <title>Recommandé n°7 - Most Emotional Piano</title>
             <link>https://recommande.duckdns.org/2019/04/27/episode07.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode07"/>
             <comments>https://recommande.duckdns.org/2019/04/27/episode07.html#disqus_thread</comments>
-            <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/04/27/episode07.html</guid>
             <description><![CDATA[
@@ -142,7 +246,7 @@
             <link>https://recommande.duckdns.org/2019/04/12/episodewowaka.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episodewowaka"/>
             <comments>https://recommande.duckdns.org/2019/04/12/episodewowaka.html#disqus_thread</comments>
-            <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 12 Apr 2019 00:00:00 +0200</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/04/12/episodewowaka.html</guid>
             <description><![CDATA[
@@ -230,7 +334,7 @@
             <link>https://recommande.duckdns.org/2019/04/05/episode06.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode06"/>
             <comments>https://recommande.duckdns.org/2019/04/05/episode06.html#disqus_thread</comments>
-            <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 05 Apr 2019 00:00:00 +0200</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/04/05/episode06.html</guid>
             <description><![CDATA[
@@ -322,7 +426,7 @@
             <link>https://recommande.duckdns.org/2019/03/15/episode05.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode05"/>
             <comments>https://recommande.duckdns.org/2019/03/15/episode05.html#disqus_thread</comments>
-            <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/03/15/episode05.html</guid>
             <description><![CDATA[
@@ -414,7 +518,7 @@
             <link>https://recommande.duckdns.org/2019/02/22/episode04.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode04"/>
             <comments>https://recommande.duckdns.org/2019/02/22/episode04.html#disqus_thread</comments>
-            <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 22 Feb 2019 00:00:00 +0100</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/02/22/episode04.html</guid>
             <description><![CDATA[
@@ -534,7 +638,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <link>https://recommande.duckdns.org/2019/02/01/episode03.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode03"/>
             <comments>https://recommande.duckdns.org/2019/02/01/episode03.html#disqus_thread</comments>
-            <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+            <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/02/01/episode03.html</guid>
             <description><![CDATA[
@@ -630,7 +734,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <link>https://recommande.duckdns.org/2019/01/08/episode02.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode02"/>
             <comments>https://recommande.duckdns.org/2019/01/08/episode02.html#disqus_thread</comments>
-            <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+            <pubDate>Tue, 08 Jan 2019 00:00:00 +0100</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2019/01/08/episode02.html</guid>
             <description><![CDATA[
@@ -730,7 +834,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <link>https://recommande.duckdns.org/2018/12/15/touhoucast.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/touhoucast"/>
             <comments>https://recommande.duckdns.org/2018/12/15/touhoucast.html#disqus_thread</comments>
-            <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 15 Dec 2018 00:00:00 +0100</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2018/12/15/touhoucast.html</guid>
             <description><![CDATA[
@@ -844,7 +948,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <link>https://recommande.duckdns.org/2018/11/28/episode0B.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode0B"/>
             <comments>https://recommande.duckdns.org/2018/11/28/episode0B.html#disqus_thread</comments>
-            <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 28 Nov 2018 00:00:00 +0100</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2018/11/28/episode0B.html</guid>
             <description><![CDATA[
@@ -932,7 +1036,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
             <link>https://recommande.duckdns.org/2018/11/10/episode0A.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="https://recommande.duckdns.org/players/episode0A"/>
             <comments>https://recommande.duckdns.org/2018/11/10/episode0A.html#disqus_thread</comments>
-            <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 10 Nov 2018 00:00:00 +0100</pubDate>
             
             <guid isPermaLink="false">https://recommande.duckdns.org/2018/11/10/episode0A.html</guid>
             <description><![CDATA[

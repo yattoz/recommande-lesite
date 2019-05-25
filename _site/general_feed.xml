@@ -4,7 +4,7 @@
   <title>Recommandé</title>
   <link href="https://recommande.duckdns.org/general_feed.xml" rel="self"/>
   <link href="https://recommande.duckdns.org"/>
-  <updated>2019-04-27T11:01:54+00:00</updated>
+  <updated>2019-05-24T00:33:29+02:00</updated>
   <id>https://recommande.duckdns.org/</id>
   <author>
     <name>Yattoz</name>
@@ -13,9 +13,60 @@
 
   
     <entry>
+      <title>Recommandé n°8</title>
+      <link href="https://recommande.duckdns.org/2019/05/24/episode08.html"/>
+      <updated>2019-05-24T00:00:00+02:00</updated>
+      <id>https://recommande.duckdns.org/2019/05/24/episode08</id>
+      <content type="html">&lt;script&gt;
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode08.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/08.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°8&quot;,&quot;subtitle&quot;:&quot;Dans l'Espace&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/05/24/episode08.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
+&lt;/script&gt;
+
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://recommande.duckdns.org/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;h3 id=&quot;episode-8--dans-lespace&quot;&gt;Episode 8 : Dans l’Espace&lt;/h3&gt;
+
+&lt;p&gt;De l’alcool, des jeux, de l’Espace, voilà la recette pour ce Recommandé n°8. Embarquez pour le voyage !&lt;/p&gt;
+
+&lt;h4 id=&quot;contact&quot;&gt;Contact&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sur Twitter, le compte officiel de l’émission &lt;a href=&quot;https://twitter.com/recommande0&quot;&gt;@recommande0&lt;/a&gt;, et mon compte perso &lt;a href=&quot;https://twitter.com/yattoz&quot;&gt;@yattoz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rejoignez le &lt;a href=&quot;https://discord.gg/4RnA9v7&quot;&gt;Discord du Calvinball Consortium&lt;/a&gt;, retrouvez toutes les productions sur &lt;a href=&quot;https://calvinballradio.wordpress.com/&quot;&gt;la page officielle du Consortium&lt;/a&gt;. Le Discord est un endroit chatoyant où il fait bon vivre.&lt;/li&gt;
+  &lt;li&gt;Par e-mail, à &lt;a href=&quot;mailto:recommande@hotmail.com&quot;&gt;recommande@hotmail.com&lt;/a&gt;,&lt;/li&gt;
+  &lt;li&gt;Et bien sûr, tous les épisodes sont &lt;a href=&quot;https://recommande.duckdns.org&quot;&gt;sur le site&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;musiques&quot;&gt;Musiques&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLIgk8mzU2JAX9b0fzxew5CIGPH166lekq&quot;&gt;La playlist Youtube de l’épisode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;artistes-et-créateurs&quot;&gt;Artistes et créateurs&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://triple-q.bandcamp.com/album/dismantled-trigr&quot;&gt;dimantled trigr, le dernier album de Triple-Q sur Bandcamp&lt;/a&gt;, et sa &lt;a href=&quot;https://www.youtube.com/user/TripleKyun/videos&quot;&gt;chaîne Youtube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Je garde cette section pour les créateurs indépendants de Youtube ; les grands noms, vous retrouverez leur musique sur leur chaîne en passant par leurs vidéos dans la playlist de l’émission ci-dessus.)&lt;/p&gt;
+
+&lt;h4 id=&quot;illustration&quot;&gt;Illustration&lt;/h4&gt;
+
+&lt;p&gt;L’illustration montre Chris Hadfield en train de jouer Space Oddity à bord de la Station Spatiale Internationale.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=EmneLbvX4AU&quot;&gt;La machine à laver dansante&lt;/a&gt;&lt;/p&gt;
+</content>
+      
+        <link rel="enclosure" type="audio/mpeg" length="0" href="https://recommande.duckdns.org/episodes/episode08.mp3"/>
+      
+      
+    </entry>
+  
+    <entry>
       <title>Recommandé n°7</title>
       <link href="https://recommande.duckdns.org/2019/04/27/episode07.html"/>
-      <updated>2019-04-27T00:00:00+00:00</updated>
+      <updated>2019-04-27T00:00:00+02:00</updated>
       <id>https://recommande.duckdns.org/2019/04/27/episode07</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode07.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/07.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°7&quot;,&quot;subtitle&quot;:&quot;Most Emotional Piano&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/04/27/episode07.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -58,7 +109,7 @@
     <entry>
       <title>Recommandé Spécial wowaka</title>
       <link href="https://recommande.duckdns.org/2019/04/12/episodewowaka.html"/>
-      <updated>2019-04-12T00:00:00+00:00</updated>
+      <updated>2019-04-12T00:00:00+02:00</updated>
       <id>https://recommande.duckdns.org/2019/04/12/episodewowaka</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episodewowaka.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/mo_ikkai.jpg&quot;,&quot;title&quot;:&quot;Recommandé Spécial wowaka&quot;,&quot;subtitle&quot;:&quot;もう一回 (mō ikkai)&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/04/12/episodewowaka.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -101,7 +152,7 @@
     <entry>
       <title>Recommandé n°6</title>
       <link href="https://recommande.duckdns.org/2019/04/05/episode06.html"/>
-      <updated>2019-04-05T00:00:00+00:00</updated>
+      <updated>2019-04-05T00:00:00+02:00</updated>
       <id>https://recommande.duckdns.org/2019/04/05/episode06</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode06.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/06.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°6&quot;,&quot;subtitle&quot;:&quot;Le Recommandé Musical Universe&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/04/05/episode06.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -146,7 +197,7 @@
     <entry>
       <title>Recommandé n°5</title>
       <link href="https://recommande.duckdns.org/2019/03/15/episode05.html"/>
-      <updated>2019-03-15T00:00:00+00:00</updated>
+      <updated>2019-03-15T00:00:00+01:00</updated>
       <id>https://recommande.duckdns.org/2019/03/15/episode05</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode05.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/05.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°5&quot;,&quot;subtitle&quot;:&quot;De Sang Royal&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/03/15/episode05.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -191,7 +242,7 @@
     <entry>
       <title>Recommandé n°4</title>
       <link href="https://recommande.duckdns.org/2019/02/22/episode04.html"/>
-      <updated>2019-02-22T00:00:00+00:00</updated>
+      <updated>2019-02-22T00:00:00+01:00</updated>
       <id>https://recommande.duckdns.org/2019/02/22/episode04</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode04.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/04.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°4&quot;,&quot;subtitle&quot;:&quot;POPJAPON&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/02/22/episode04.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -250,7 +301,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
     <entry>
       <title>Recommandé n°3</title>
       <link href="https://recommande.duckdns.org/2019/02/01/episode03.html"/>
-      <updated>2019-02-01T00:00:00+00:00</updated>
+      <updated>2019-02-01T00:00:00+01:00</updated>
       <id>https://recommande.duckdns.org/2019/02/01/episode03</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode03.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/03.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°3&quot;,&quot;subtitle&quot;:&quot;Curieusement Satisfaisant&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/02/01/episode03.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -297,7 +348,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
     <entry>
       <title>Recommandé n°2</title>
       <link href="https://recommande.duckdns.org/2019/01/08/episode02.html"/>
-      <updated>2019-01-08T00:00:00+00:00</updated>
+      <updated>2019-01-08T00:00:00+01:00</updated>
       <id>https://recommande.duckdns.org/2019/01/08/episode02</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode02.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/02.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°2&quot;,&quot;subtitle&quot;:&quot;Tension Sensuelle&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2019/01/08/episode02.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -346,7 +397,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
     <entry>
       <title>Recommandé n°1</title>
       <link href="https://recommande.duckdns.org/2018/12/15/touhoucast.html"/>
-      <updated>2018-12-15T00:00:00+00:00</updated>
+      <updated>2018-12-15T00:00:00+01:00</updated>
       <id>https://recommande.duckdns.org/2018/12/15/touhoucast</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode01.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/01.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°1&quot;,&quot;subtitle&quot;:&quot;東方キャスト (Touhoucast)&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/12/15/touhoucast.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -402,7 +453,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
     <entry>
       <title>Recommandé n°0B</title>
       <link href="https://recommande.duckdns.org/2018/11/28/episode0B.html"/>
-      <updated>2018-11-28T00:00:00+00:00</updated>
+      <updated>2018-11-28T00:00:00+01:00</updated>
       <id>https://recommande.duckdns.org/2018/11/28/episode0B</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0B.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/0B-petit-fils-grand-pere.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°0B&quot;,&quot;subtitle&quot;:&quot;Le petit-fils et le grand-père&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/11/28/episode0B.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}
@@ -445,7 +496,7 @@ Profitez de votre pouvoir de décision, et envoyez vos morceaux préférés pour
     <entry>
       <title>Recommandé n°0A</title>
       <link href="https://recommande.duckdns.org/2018/11/10/episode0A.html"/>
-      <updated>2018-11-10T00:00:00+00:00</updated>
+      <updated>2018-11-10T00:00:00+01:00</updated>
       <id>https://recommande.duckdns.org/2018/11/10/episode0A</id>
       <content type="html">&lt;script&gt;
   window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default-dark&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;https://dts.podtrac.com/redirect.mp3/shelter.mahoro-net.org/~yattoz/recommande/episodes/episode0A.mp3&quot;},&quot;coverUrl&quot;:&quot;https://recommande.duckdns.org/img/0A-anisong-catharsis-vol1.jpg&quot;,&quot;title&quot;:&quot;Recommandé n°0A&quot;,&quot;subtitle&quot;:&quot;Anisong Catharsis vol.1&quot;,&quot;url&quot;:&quot;https://recommande.duckdns.org/2018/11/10/episode0A.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:null}}

@@ -1,6 +1,4 @@
 
 all:
-	octopod b -I
-
-full: 
-	octopod b
+	octopod build
+	sudo cp -a _site/* /usr/share/nginx/html/

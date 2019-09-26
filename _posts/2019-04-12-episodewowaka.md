@@ -30,7 +30,7 @@ C'est un épisode spécial dédié à wowaka, talentueux musicien qui nous a qui
 
 #### Musiques
 
-  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAWgYiaBAZnXaS6tMzNT1WX0)
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/watch?v=vnw8zURAxkU&list=PLNjXbZkItxtaf0p2SDFMXwQyxSezj8eRn)
 
 #### Illustration
 

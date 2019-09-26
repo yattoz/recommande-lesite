@@ -47,7 +47,7 @@ L'épisode 2 sera normalement non-thématique. C'est le moment de m'envoyer tout
 
 #### Musiques
 
-  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVZCUwp7JH9Mc9e739cPS4p)
+  * [La playlist Youtube de l'épisode](https://www.youtube.com/playlist?list=PLNjXbZkItxtbA6PhrhUBxvDk5WC8-CPJa)
   
 
 

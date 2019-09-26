@@ -31,7 +31,7 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
-gem "jekyll-octopod"
+gem "jekyll-octopod", "~> 0.9.12"
 
 
 gem "rack", ">= 1.6.11"

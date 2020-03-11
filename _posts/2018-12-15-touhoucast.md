@@ -2,7 +2,7 @@
 title: Recommandé n°1
 subtitle: 東方キャスト (Touhoucast)
 image: "01.jpg"
-player_theme: default-dark
+player_theme: default
 datum: 15 Décembre 2018
 layout: post
 author: Yattoz

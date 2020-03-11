@@ -2,7 +2,7 @@
 title: Recommandé Spécial wowaka
 subtitle: もう一回 (mō ikkai)
 image: "mo_ikkai.jpg"
-player_theme: default-dark
+player_theme: default
 datum: 12 Avril 2019
 layout: post
 author: Yattoz

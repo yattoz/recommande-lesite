@@ -5,7 +5,7 @@ navigation: 2
 ---
 
 
-## [Cliquez ici pour voir la playlist avec toutes les suggestions qu'on m'a envoyées.](https://www.youtube.com/playlist?list=PLIgk8mzU2JAVam9gmbYwxPE9_w5L6cSTc)
+## [Cliquez ici pour voir la playlist avec toutes les suggestions qu'on m'a envoyées.](https://www.youtube.com/playlist?list=PLNjXbZkItxtb4QXFEBdy9lkaQMO8IzmRZ)
 
 
 La playlist est jouable directement depuis ici:

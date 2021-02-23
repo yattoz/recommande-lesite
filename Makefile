@@ -1,6 +1,5 @@
 
 all:
-	sudo echo "sudo triggered"
 	bundle exec octopod build
-	sudo rm -rf /usr/share/nginx/html/recommande/*
-	sudo cp -a _site/* /usr/share/nginx/html/recommande/
+	rm -rf /var/www/html/recommande/*
+	cp -a _site/* /var/www/html/recommande/
